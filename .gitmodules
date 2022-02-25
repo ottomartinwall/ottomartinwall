@@ -1,0 +1,4 @@
+[submodule "ottomartinwall.github.io"]
+	path = ottomartinwall.github.io
+	url = https://github.com/ottomartinwall/ottomartinwall.github.io.git
+	branch = main
