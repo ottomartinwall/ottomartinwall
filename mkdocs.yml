@@ -1,0 +1,13 @@
+site_name: Otto Martinwall
+site_url: https://GITHUB_USERNAME.github.io
+site_author: Otto Martinwall
+site_description: This is my work.
+
+nav:
+  - About: index.md
+  
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
