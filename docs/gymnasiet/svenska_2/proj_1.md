@@ -9,7 +9,3 @@ En möjlig sjukdom som visar stark länk till vampyren är rabies. Rabies finns 
 De två ovannämnda sjukdomarna var epidemier under det så kallade *den stora vampyrepidemin* och under denna tid spred sig idén om vampyrer över europa. Man grävde upp gravar för att se efter tecken av 'vampyrvisering' av kroppar, i rädsla av tron om den ökade mängden vampyrer under denna tid.
 
 Sammanfattningsvis så är vampyren absolut länkad till sjukdomsskräck
-
-$$ \int_{5}^{3} e^x dx $$
-
-Coolt najs
