@@ -8,5 +8,7 @@ $$
 > - A ***complex number*** is an ordered pair (a, b), where $ a,b \in \mathbb{R} $, but we will write this as $ a + bi $.
 > - The set of all complex numbers is denoted by $ \mathbb{C} $
 
-Test
+## Exercises 1.A
+
+blablabla
 
