@@ -5,16 +5,9 @@ site_description: This is my work.
 
 nav:
     - Home: index.md
-    - 'Gymnasiet':
-        - 'Svenska 2':
-            - Romantiken - Dracula: gymnasiet/svenska_2/proj_1.md
     - 'University':
-        - 'Linear Algebra':
-            - 'Lectures':
-                - 1. ExampleTitle: university/linear_algebra/lectures/lec_1.md
-            - 'Linear Algebra Done Right':
-                - 1. Vector Spaces: university/linear_algebra/linear_algebra_done_right/cha_1.md
-  
+        - Linear Algebra: latex/university/linearAlgebra/markdown.md
+
 theme:
     name: material
 
