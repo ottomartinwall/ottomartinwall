@@ -5,7 +5,5 @@
 \contentsline {paragraph}{2}{5}{section*.3}%
 \contentsline {subsubsection}{\numberline {1.1.2}Exercises 1.B}{6}{subsubsection.1.1.2}%
 \contentsline {paragraph}{Problem 1}{6}{section*.4}%
-\contentsline {paragraph}{Problem 2}{6}{section*.5}%
-\contentsline {section}{\numberline {2}Lectures}{7}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Lecture 1: Area of the Sphere}{8}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Lecture 2: Title of This Other Lecture}{10}{subsection.2.2}%
+\contentsline {paragraph}{Problem 2}{7}{section*.5}%
+\contentsline {section}{\numberline {2}Lectures}{8}{section.2}%

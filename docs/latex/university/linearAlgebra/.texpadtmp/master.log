@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  26 FEB 2022 18:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  28 FEB 2022 19:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -130,14 +130,16 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
 )
 \Hy@SectionHShift=\skip49
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks17
+\@emptytoks=\toks19
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -152,7 +154,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2021/08/26 v2.01 AMS text
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks18
+\@emptytoks=\toks20
 \ex@=\dimen143
 )) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -180,34 +182,34 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \dotsspace@=\muskip17
 \c@parentequation=\count276
 \dspbrk@lvl=\count277
-\tag@help=\toks19
+\tag@help=\toks21
 \row@=\count278
 \column@=\count279
 \maxfields@=\count280
-\andhelp@=\toks20
+\andhelp@=\toks22
 \eqnshift@=\dimen146
 \alignsep@=\dimen147
 \tagshift@=\dimen148
 \tagwidth@=\dimen149
 \totwidth@=\dimen150
 \lineht@=\dimen151
-\@envbody=\toks21
+\@envbody=\toks23
 \multlinegap=\skip51
 \multlinetaggap=\skip52
-\mathdisplay@stack=\toks22
+\mathdisplay@stack=\toks24
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks23
-\thm@bodyfont=\toks24
-\thm@headfont=\toks25
-\thm@notefont=\toks26
-\thm@headpunct=\toks27
+\thm@style=\toks25
+\thm@bodyfont=\toks26
+\thm@headfont=\toks27
+\thm@notefont=\toks28
+\thm@headpunct=\toks29
 \thm@preskip=\skip53
 \thm@postskip=\skip54
 \thm@headsep=\skip55
-\dth@everypar=\toks28
+\dth@everypar=\toks30
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
  (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
@@ -246,8 +248,8 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 )
 Package: xstring 2021/07/21 v1.84 String manipulations (CT)
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/systeme/systeme.tex
-\SYS_systemecode=\toks29
-\SYS_systempreamble=\toks30
+\SYS_systemecode=\toks31
+\SYS_systempreamble=\toks32
 \SYSeqnum=\count287
 )
 Package: systeme 2020/05/03 v0.34 Mise en forme de systemes d'equations (CT)
@@ -283,14 +285,131 @@ Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2022-01-21 L3 programming layer (loader) 
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count290
+\l__pdf_internal_box=\box53
+))
+Package: xparse 2022-01-12 L3 Experimental document command parser
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
+Package zref Info: New property list: main on input line 764.
+Package zref Info: New property: default on input line 765.
+Package zref Info: New property: page on input line 766.
+)
+\c@abspage=\count291
+Package zref Info: New property: abspage on input line 66.
+)
+(/usr/local/texlive/2021/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2010/09/12 v1.3d reserve vertical space
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+\mdf@templength=\skip62
+\c@mdf@globalstyle@cnt=\count292
+\mdf@skipabove@length=\skip63
+\mdf@skipbelow@length=\skip64
+\mdf@leftmargin@length=\skip65
+\mdf@rightmargin@length=\skip66
+\mdf@innerleftmargin@length=\skip67
+\mdf@innerrightmargin@length=\skip68
+\mdf@innertopmargin@length=\skip69
+\mdf@innerbottommargin@length=\skip70
+\mdf@splittopskip@length=\skip71
+\mdf@splitbottomskip@length=\skip72
+\mdf@outermargin@length=\skip73
+\mdf@innermargin@length=\skip74
+\mdf@linewidth@length=\skip75
+\mdf@innerlinewidth@length=\skip76
+\mdf@middlelinewidth@length=\skip77
+\mdf@outerlinewidth@length=\skip78
+\mdf@roundcorner@length=\skip79
+\mdf@footenotedistance@length=\skip80
+\mdf@userdefinedwidth@length=\skip81
+\mdf@needspace@length=\skip82
+\mdf@frametitleaboveskip@length=\skip83
+\mdf@frametitlebelowskip@length=\skip84
+\mdf@frametitlerulewidth@length=\skip85
+\mdf@frametitleleftmargin@length=\skip86
+\mdf@frametitlerightmargin@length=\skip87
+\mdf@shadowsize@length=\skip88
+\mdf@extratopheight@length=\skip89
+\mdf@subtitleabovelinewidth@length=\skip90
+\mdf@subtitlebelowlinewidth@length=\skip91
+\mdf@subtitleaboveskip@length=\skip92
+\mdf@subtitlebelowskip@length=\skip93
+\mdf@subtitleinneraboveskip@length=\skip94
+\mdf@subtitleinnerbelowskip@length=\skip95
+\mdf@subsubtitleabovelinewidth@length=\skip96
+\mdf@subsubtitlebelowlinewidth@length=\skip97
+\mdf@subsubtitleaboveskip@length=\skip98
+\mdf@subsubtitlebelowskip@length=\skip99
+\mdf@subsubtitleinneraboveskip@length=\skip100
+\mdf@subsubtitleinnerbelowskip@length=\skip101
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
+File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
+)
+\mdf@frametitlebox=\box54
+\mdf@footnotebox=\box55
+\mdf@splitbox@one=\box56
+\mdf@splitbox@two=\box57
+\mdf@splitbox@save=\box58
+\mdfsplitboxwidth=\skip102
+\mdfsplitboxtotalwidth=\skip103
+\mdfsplitboxheight=\skip104
+\mdfsplitboxdepth=\skip105
+\mdfsplitboxtotalheight=\skip106
+\mdfframetitleboxwidth=\skip107
+\mdfframetitleboxtotalwidth=\skip108
+\mdfframetitleboxheight=\skip109
+\mdfframetitleboxdepth=\skip110
+\mdfframetitleboxtotalheight=\skip111
+\mdffootnoteboxwidth=\skip112
+\mdffootnoteboxtotalwidth=\skip113
+\mdffootnoteboxheight=\skip114
+\mdffootnoteboxdepth=\skip115
+\mdffootnoteboxtotalheight=\skip116
+\mdftotallinewidth=\skip117
+\mdfboundingboxwidth=\skip118
+\mdfboundingboxtotalwidth=\skip119
+\mdfboundingboxheight=\skip120
+\mdfboundingboxdepth=\skip121
+\mdfboundingboxtotalheight=\skip122
+\mdf@freevspace@length=\skip123
+\mdf@horizontalwidthofbox@length=\skip124
+\mdf@verticalmarginwhole@length=\skip125
+\mdf@horizontalspaceofbox=\skip126
+\mdfsubtitleheight=\skip127
+\mdfsubsubtitleheight=\skip128
+\c@mdfcountframes=\count293
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count294
+\c@mdf@env@i=\count295
+\c@mdf@env@ii=\count296
+\c@mdf@zref@counter=\count297
+Package zref Info: New property: mdf@pagevalue on input line 895.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count290
-\Gm@cntv=\count291
-\c@Gm@tempcnt=\count292
+\Gm@cnth=\count298
+\Gm@cntv=\count299
+\c@Gm@tempcnt=\count300
 \Gm@bindingoffset=\dimen165
 \Gm@wd@mp=\dimen166
 \Gm@odd@mp=\dimen167
@@ -299,28 +418,19 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen170
 \Gm@layouthoffset=\dimen171
 \Gm@layoutvoffset=\dimen172
-\Gm@dimlist=\toks31
+\Gm@dimlist=\toks33
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip62
-\f@nch@O@elh=\skip63
-\f@nch@O@erh=\skip64
-\f@nch@O@olh=\skip65
-\f@nch@O@orh=\skip66
-\f@nch@O@elf=\skip67
-\f@nch@O@erf=\skip68
-\f@nch@O@olf=\skip69
-\f@nch@O@orf=\skip70
-))
-LaTeX Font Info:    Trying to load font information for T1+cmss on input line 6.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmss.fd
-File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count293
-\l__pdf_internal_box=\box53
-) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/master.aux
-(/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/linearAlgebraDoneRight/cha_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/lectures/lec_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/lectures/lec_2.aux))
+\f@nch@headwidth=\skip129
+\f@nch@O@elh=\skip130
+\f@nch@O@erh=\skip131
+\f@nch@O@olh=\skip132
+\f@nch@O@orh=\skip133
+\f@nch@O@elf=\skip134
+\f@nch@O@erf=\skip135
+\f@nch@O@olf=\skip136
+\f@nch@O@orf=\skip137
+)) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/linearAlgebraDoneRight/cha_1.aux))
 \openout1 = `master.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -349,7 +459,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count294
+\c@section@level=\count301
 )
 LaTeX Info: Redefining \ref on input line 6.
 LaTeX Info: Redefining \pageref on input line 6.
@@ -360,17 +470,17 @@ LaTeX Info: Redefining \nameref on input line 6.
 
  (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count295
+\scratchcounter=\count302
 \scratchdimen=\dimen173
-\scratchbox=\box54
-\nofMPsegments=\count296
-\nofMParguments=\count297
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count298
+\scratchbox=\box59
+\nofMPsegments=\count303
+\nofMParguments=\count304
+\everyMPshowfont=\toks34
+\MPscratchCnt=\count305
 \MPscratchDim=\dimen174
-\MPnumerator=\count299
-\makeMPintoPDFobject=\count300
-\everyMPtoPDFconversion=\toks33
+\MPnumerator=\count306
+\makeMPintoPDFobject=\count307
+\everyMPtoPDFconversion=\toks35
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -425,45 +535,33 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
  [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-\c@definition=\count301
-\c@theorem=\count302
+\c@definition=\count308
+\c@theorem=\count309
  [2]
 \openout2 = `linearAlgebraDoneRight/cha_1.aux'.
 
  (./linearAlgebraDoneRight/cha_1.tex [3
 
-] [4] [5]) [6] [7
+] [4] [5]) [6] [7] [8
 
 
-]
-\openout2 = `lectures/lec_1.aux'.
-
- (./lectures/lec_1.tex [8
-
-]) [9]
-\openout2 = `lectures/lec_2.aux'.
-
- (./lectures/lec_2.tex) [10
-
-
-
-] (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/linearAlgebraDoneRight/cha_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/lectures/lec_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/lectures/lec_2.aux))
+] (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/linearAlgebraDoneRight/cha_1.aux))
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 31C66331894785F95CCE3483C2E7712D;1137.
+(rerunfilecheck)             Checksum: 7F8F1173534FAC71B5CD7BFBDC256B6C;655.
  ) 
 Here is how much of TeX's memory you used:
- 12064 strings out of 478287
- 191552 string characters out of 5846750
- 487500 words of memory out of 5000000
- 30019 multiletter control sequences out of 15000+600000
- 482654 words of font info for 65 fonts, out of 8000000 for 9000
+ 12751 strings out of 478287
+ 207442 string characters out of 5846750
+ 516401 words of memory out of 5000000
+ 30714 multiletter control sequences out of 15000+600000
+ 478611 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 65i,12n,66p,623b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
-Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/master.pdf (10 pages, 176352 bytes).
+ 73i,12n,80p,623b,341s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/master.pdf (8 pages, 123545 bytes).
 PDF statistics:
- 184 PDF objects out of 1000 (max. 8388607)
- 140 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 139 PDF objects out of 1000 (max. 8388607)
+ 103 compressed objects within 2 object streams
+ 19 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
