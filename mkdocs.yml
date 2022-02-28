@@ -10,20 +10,15 @@ nav:
       - Linear Algebra: latex/university/linearAlgebra/markdown.md
       - Single Variable Calculus: latex/university/singleVariableCalculus/markdown.md
   - 'Gymnasiet':
-    - Svenska: latex/gymnasiet/svenska/markdown.md
     - MatteFörklaringar: latex/gymnasiet/matematik/markdown.md
+    - Svenska: latex/gymnasiet/svenska/markdown.md
+    - Engelska 6: latex/gymnasiet/engelska6/markdown.md
+    - Dator och nätverksteknik: latex/gymnasiet/daodac/markdown.md
 
 theme:
   name: material
   palette: 
-    - scheme: default
-      toggle:
-        icon: material/toggle-switch-off-outline 
-        name: Switch to dark mode
-    - scheme: slate 
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to light mode
+    - primary: blue grey
 
 extra:
   generator: false
