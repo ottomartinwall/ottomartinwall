@@ -1,38 +1,36 @@
 \babel@toc {swedish}{}\relax 
-\contentsline {section}{\numberline {1}Windows 10}{4}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Checkpoint}{5}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1}Förklara genväg}{5}{subsubsection.1.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.2}Förklara ljudvolym}{5}{subsubsection.1.1.2}%
-\contentsline {subsubsection}{\numberline {1.1.3}Förklara Åtgärdscentret}{5}{subsubsection.1.1.3}%
-\contentsline {subsubsection}{\numberline {1.1.4}Vart finns de flesta inställningarna?}{5}{subsubsection.1.1.4}%
-\contentsline {subsubsection}{\numberline {1.1.5}Hur gör man för att starta ett program som administratör?}{5}{subsubsection.1.1.5}%
-\contentsline {subsubsection}{\numberline {1.1.6}Vad gör windows update?}{7}{subsubsection.1.1.6}%
-\contentsline {subsubsection}{\numberline {1.1.7}Vad skyddar datorn mot virus?}{7}{subsubsection.1.1.7}%
-\contentsline {subsubsection}{\numberline {1.1.8}Var i windows 10 kan man ändra vilka WIFI-nätverk som ska anslutas till automatiskt?}{7}{subsubsection.1.1.8}%
-\contentsline {subsubsection}{\numberline {1.1.9}Vilka tre typer av nätverksplatser finns det?}{7}{subsubsection.1.1.9}%
-\contentsline {subsubsection}{\numberline {1.1.10}Nämn minst tre olika exempel på molntjänster}{7}{subsubsection.1.1.10}%
-\contentsline {subsubsection}{\numberline {1.1.11}Vad kan man göra om man har ett program som har fryst sig?}{7}{subsubsection.1.1.11}%
-\contentsline {subsubsection}{\numberline {1.1.12}Inom vilken tid måste man aktivera windows 10?}{7}{subsubsection.1.1.12}%
-\contentsline {subsubsection}{\numberline {1.1.13}Var i windows anger man vilka datakällor (SQL-server) som skall länkas till datorn?}{7}{subsubsection.1.1.13}%
-\contentsline {subsubsection}{\numberline {1.1.14}Hur får du fram dolda filer?}{7}{subsubsection.1.1.14}%
-\contentsline {subsubsection}{\numberline {1.1.15}Vilka tre typer av datavirus finns det? Förklara 1 typ mer utförligt}{7}{subsubsection.1.1.15}%
-\contentsline {subsubsection}{\numberline {1.1.16}Vilken åtgärd kan vara lämplig om man misstänker fel på internminnet?}{7}{subsubsection.1.1.16}%
-\contentsline {subsubsection}{\numberline {1.1.17}Vilka tre filsystem för hårddiskar kan användas i windows 10?}{7}{subsubsection.1.1.17}%
-\contentsline {subsubsection}{\numberline {1.1.18}Vilken mapp i profilen innehåller sparade inställningar för olika program?}{7}{subsubsection.1.1.18}%
-\contentsline {subsubsection}{\numberline {1.1.19}Vilka är de fem behörighetsnivåerna man som standard kan ange för filer?}{7}{subsubsection.1.1.19}%
-\contentsline {subsubsection}{\numberline {1.1.20}Förklara skillnaden mellan Partition och Volym. Ange exempel på situationer där du använder dem.}{7}{subsubsection.1.1.20}%
-\contentsline {subsubsection}{\numberline {1.1.21}Du laddar ner ett program som kräver en minimum av prestanda och en rekommenderad prestanda på din dator. Hur kan du veta om din dator uppfyller kraven och kan du checka i windows att din dator hanterar programmet och inte blir överbelastat?}{7}{subsubsection.1.1.21}%
-\contentsline {subsubsection}{\numberline {1.1.22}En person kommer till dig och vill ha hjälp att fixa sin dator. Personen berättar att datorn fungerade alldeles utmärkt tills igår. Personen stängde ner datorn men den behövde uppdateras innan den stängdes av. Vad är problemet och hur kan du fixa datorn?}{7}{subsubsection.1.1.22}%
-\contentsline {section}{\numberline {2}Nätmask och VPN}{8}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Instuderingsfrågor}{9}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Vad är routing?}{9}{subsubsection.2.1.1}%
-\contentsline {paragraph}{Hur går det till?}{9}{section*.2}%
-\contentsline {subsubsection}{\numberline {2.1.2}Vad är en nätmask?}{9}{subsubsection.2.1.2}%
-\contentsline {paragraph}{Förklara varför det används}{9}{section*.3}%
-\contentsline {subsubsection}{\numberline {2.1.3}Vad är subnetting?}{9}{subsubsection.2.1.3}%
-\contentsline {paragraph}{Förklara varför det används}{9}{section*.4}%
-\contentsline {subsubsection}{\numberline {2.1.4}Vilka tre typer av routeanslutingar finns det?}{9}{subsubsection.2.1.4}%
-\contentsline {subsubsection}{\numberline {2.1.5}Nämn vilka sex routetyper det finns (6 st)}{9}{subsubsection.2.1.5}%
-\contentsline {subsubsection}{\numberline {2.1.6}Joakim ska skicka en fil till en kollega.(Samma nätverk) Hur går processen till? [E-A]}{9}{subsubsection.2.1.6}%
-\contentsline {subsubsection}{\numberline {2.1.7}Företaget du arbetar på använder mer enheter än vad deras klass C nätverk kan tilldela. Varför kan inte nätverket tilldela fler enheter och hur gör du för att lösa problemet?}{9}{subsubsection.2.1.7}%
-\contentsline {subsubsection}{\numberline {2.1.8}Förklara vad VPN är, hur det fungerar och varför det är bra att använda VPN både privat och företagsrelaterat.}{9}{subsubsection.2.1.8}%
+\contentsline {section}{\numberline {1}Windows 10}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Checkpoint}{3}{subsection.1.1}%
+\contentsline {paragraph}{1. Förklara}{3}{section*.2}%
+\contentsline {paragraph}{2. Vart finns de flesta inställningarna?}{3}{section*.3}%
+\contentsline {paragraph}{3. Hur gör man för att starta ett program som administratör?}{3}{section*.4}%
+\contentsline {paragraph}{4. Vad gör windows update?}{3}{section*.5}%
+\contentsline {paragraph}{5. Vad skyddar datorn mot virus?}{3}{section*.6}%
+\contentsline {paragraph}{6. Var i windows 10 kan man ändra vilka WIFI-nätverk som ska anslutas till automatiskt?}{3}{section*.7}%
+\contentsline {paragraph}{7. Vilka tre typer av nätverksplatser finns det?}{3}{section*.8}%
+\contentsline {paragraph}{8. Nämn minst tre olika exempel på molntjänster}{3}{section*.9}%
+\contentsline {paragraph}{9. Vad kan man göra om man har ett program som har fryst sig?}{3}{section*.10}%
+\contentsline {paragraph}{10. Inom vilken tid måste man aktivera windows 10?}{4}{section*.11}%
+\contentsline {paragraph}{1. Var i windows anger man vilka datakällor (SQL-server) som skall länkas till datorn?}{4}{section*.12}%
+\contentsline {paragraph}{2. Hur får du fram dolda filer?}{4}{section*.13}%
+\contentsline {paragraph}{3. Vilka tre typer av datavirus finns det? Förklara 1 typ mer utförligt}{4}{section*.14}%
+\contentsline {paragraph}{4. Vilken åtgärd kan vara lämplig om man misstänker fel på internminnet?}{4}{section*.15}%
+\contentsline {paragraph}{5. Vilka tre filsystem för hårddiskar kan användas i windows 10?}{4}{section*.16}%
+\contentsline {paragraph}{6. Vilken mapp i profilen innehåller sparade inställningar för olika program?}{4}{section*.17}%
+\contentsline {paragraph}{7. Vilka är de fem behörighetsnivåerna man som standard kan ange för filer?}{4}{section*.18}%
+\contentsline {paragraph}{8. Förklara skillnaden mellan Partition och Volym. Ange exempel på situationer där du använder dem.}{4}{section*.19}%
+\contentsline {paragraph}{9. Du laddar ner ett program som kräver en minimum av prestanda och en rekommenderad prestanda på din dator. Hur kan du veta om din dator uppfyller kraven och kan du checka i windows att din dator hanterar programmet och inte blir överbelastat?}{4}{section*.20}%
+\contentsline {paragraph}{10. En person kommer till dig och vill ha hjälp att fixa sin dator. Personen berättar att datorn fungerade alldeles utmärkt tills igår. Personen stängde ner datorn men den behövde uppdateras innan den stängdes av. Vad är problemet och hur kan du fixa datorn?}{4}{section*.21}%
+\contentsline {section}{\numberline {2}Nätmask och VPN}{5}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Instuderingsfrågor}{6}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Vad är routing?}{6}{subsubsection.2.1.1}%
+\contentsline {paragraph}{Hur går det till?}{6}{section*.22}%
+\contentsline {subsubsection}{\numberline {2.1.2}Vad är en nätmask?}{6}{subsubsection.2.1.2}%
+\contentsline {paragraph}{Förklara varför det används}{6}{section*.23}%
+\contentsline {subsubsection}{\numberline {2.1.3}Vad är subnetting?}{6}{subsubsection.2.1.3}%
+\contentsline {paragraph}{Förklara varför det används}{6}{section*.24}%
+\contentsline {subsubsection}{\numberline {2.1.4}Vilka tre typer av routeanslutingar finns det?}{6}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Nämn vilka sex routetyper det finns (6 st)}{6}{subsubsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.6}Joakim ska skicka en fil till en kollega.(Samma nätverk) Hur går processen till? [E-A]}{6}{subsubsection.2.1.6}%
+\contentsline {subsubsection}{\numberline {2.1.7}Företaget du arbetar på använder mer enheter än vad deras klass C nätverk kan tilldela. Varför kan inte nätverket tilldela fler enheter och hur gör du för att lösa problemet?}{6}{subsubsection.2.1.7}%
+\contentsline {subsubsection}{\numberline {2.1.8}Förklara vad VPN är, hur det fungerar och varför det är bra att använda VPN både privat och företagsrelaterat.}{6}{subsubsection.2.1.8}%
