@@ -1,7 +1,5 @@
 # Welcome 
 
-This website is for hosting and sharing my notes and projects. Under here are some examples, of which the math behind them are explained <a href='latex/gymnasiet/matematik/markdown/'><u>here</u></a>, in swedish.
-
 This website is for hosting and sharing my notes and projects. Here under are some examples:
 
 ## Some projects with dynamical systems, explained in <a href='latex/gymnasiet/matematik/markdown/'><u>here</u></a> in swedish:
