@@ -1,0 +1,62 @@
+\subsection{Limits and Continuity}
+
+\begin{theo}[The Squeeze Theorem]
+	Suppose that $f(x) \leq g(x) \leq h(x)$ holds for all $x$ in some open interval containing $c$, except possibly at $x=c$. Suppose also that
+	
+	\begin{align*}
+		\lim_{x \rightarrow c} f(x) = \lim_{x \rightarrow c} h(x) = L
+	\end{align*}
+	
+	Then $\lim_{x \rightarrow c} g(x) = L $.
+\end{theo}
+
+\begin{proof}
+	For this proof, the $(\epsilon, \delta)$-definition of the limit will be used.
+	
+	The goal is to prove that $\lim_{x \rightarrow c} g(x) = L$, which is true if
+	
+	\begin{align*}
+		\forall \epsilon > 0, \exists \delta > 0 : \forall x, (|x-a| < \delta \Rightarrow |g(x)-L| < \epsilon).
+	\end{align*}
+	
+	Since $\lim_{x \rightarrow c} f(x) = L$,
+	
+	\begin{align}
+		\forall \epsilon > 0, \exists \delta_1 > 0 : \forall x, (|x-a| < \delta_1 \Rightarrow |f(x)-L| < \epsilon)
+	\end{align}
+	
+	And since $\lim_{x \rightarrow c} h(x) = L$,
+	
+	\begin{align}
+		\forall \epsilon > 0, \exists \delta_2 > 0 : \forall x, (|x-a| < \delta_2 \Rightarrow |h(x)-L| < \epsilon).
+	\end{align}
+	
+	Then we have 
+	
+	\begin{align*}
+		&f(x) \leq g(x) \leq h(x) \\
+		&f(x)-L \leq g(x)-L \leq h(x)-L
+	\end{align*}
+	
+	We can choose $\delta = \min\{\delta_1, \delta_2\}$, then if $|x-a| < \delta$, and combining (1) and (2), we have
+	
+	\begin{align*}
+		&-\epsilon < f(x)-L \leq g(x)-L \leq h(x)-L < \epsilon \\
+		&-\epsilon < g(x)-L < \epsilon \\
+		&|g(x)-L| < \epsilon
+	\end{align*}
+	
+	So $\lim_{x \rightarrow c} g(x) = L$, which completes the proof.
+\end{proof}
+
+\subsubsection{Exercises 1.1}
+\subsubsection{Exercises 1.2}
+
+
+
+
+
+
+
+
+

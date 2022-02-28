@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  17 FEB 2022 17:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  26 FEB 2022 18:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -319,8 +319,8 @@ File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count293
 \l__pdf_internal_box=\box53
-) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/master.aux
-(/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/linear_algebra_done_right/cha_1.aux) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/lectures/lec_1.aux) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/lectures/lec_2.aux))
+) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/master.aux
+(/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/linearAlgebraDoneRight/cha_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/lectures/lec_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/lectures/lec_2.aux))
 \openout1 = `master.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -354,7 +354,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 6.
 LaTeX Info: Redefining \pageref on input line 6.
 LaTeX Info: Redefining \nameref on input line 6.
- (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/master.out) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/master.out)
+ (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/master.out) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/master.out)
 \@outlinefile=\write3
 \openout3 = `master.out'.
 
@@ -418,7 +418,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/master.toc)
+) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/master.toc)
 \tf@toc=\write4
 \openout4 = `master.toc'.
 
@@ -428,47 +428,42 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \c@definition=\count301
 \c@theorem=\count302
  [2]
-\openout2 = `linear_algebra_done_right/cha_1.aux'.
+\openout2 = `linearAlgebraDoneRight/cha_1.aux'.
 
- (./linear_algebra_done_right/cha_1.tex) [3
+ (./linearAlgebraDoneRight/cha_1.tex [3
 
-] [4
+] [4] [5]) [6] [7
 
 
 ]
 \openout2 = `lectures/lec_1.aux'.
 
- (./lectures/lec_1.tex
+ (./lectures/lec_1.tex [8
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 1.
-
-[5
-
-]) [6]
+]) [9]
 \openout2 = `lectures/lec_2.aux'.
 
- (./lectures/lec_2.tex) [7
+ (./lectures/lec_2.tex) [10
 
 
 
-] (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/master.aux (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/linear_algebra_done_right/cha_1.aux) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/lectures/lec_1.aux) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/lectures/lec_2.aux))
+] (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/linearAlgebraDoneRight/cha_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/lectures/lec_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/lectures/lec_2.aux))
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 1B8747D4B1E1DE47E7CB803D688AFA63;887.
+(rerunfilecheck)             Checksum: 31C66331894785F95CCE3483C2E7712D;1137.
  ) 
 Here is how much of TeX's memory you used:
- 12058 strings out of 478287
- 191282 string characters out of 5846750
- 487490 words of memory out of 5000000
+ 12064 strings out of 478287
+ 191552 string characters out of 5846750
+ 487500 words of memory out of 5000000
  30019 multiletter control sequences out of 15000+600000
- 484305 words of font info for 67 fonts, out of 8000000 for 9000
+ 482654 words of font info for 65 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  65i,12n,66p,623b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfso1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
-Output written on /Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/master.pdf (7 pages, 182903 bytes).
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
+Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/university/linearAlgebra/.texpadtmp/master.pdf (10 pages, 176352 bytes).
 PDF statistics:
- 167 PDF objects out of 1000 (max. 8388607)
- 122 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 184 PDF objects out of 1000 (max. 8388607)
+ 140 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
+ 57 words of extra memory for PDF output out of 10000 (max. 10000000)
 
