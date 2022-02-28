@@ -1,7 +1,13 @@
 # Welcome 
 
-This website is for hosting and sharing my notes and projects. TEST
+This website is for hosting and sharing my notes and projects.
 
-<img src="./img/threeSuns.gif" alt="this slowpoke moves"  width="100%" />
+<video width="100%" height="100%" autoplay loop>
+    <source src="./img/threeSuns.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
-<img src="./img/doublePendulum.gif" alt="this slowpoke moves"  width="100%" />
+<video width="100%" height="100%" autoplay loop>
+    <source src="./img/doublePendulum.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
