@@ -16,6 +16,7 @@ nav:
     - Dator och nätverksteknik: latex/gymnasiet/daodac/markdown.md
 
 theme:
+  logo: img/largeSigma.png
   name: material
   palette: 
     - primary: blue grey
