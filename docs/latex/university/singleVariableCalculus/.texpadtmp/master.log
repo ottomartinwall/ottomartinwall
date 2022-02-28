@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  28 FEB 2022 20:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  28 FEB 2022 20:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -552,7 +552,7 @@ Package mdframed Info: mdframed detected package amsthm
 (mdframed)              on input line 3.
  [3
 
-]) [4] [5
+] [4]) [5] [6
 
 
 ] (/Users/ottomartinwall/ottomartinwall/docs/latex/university/singleVariableCalculus/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/university/singleVariableCalculus/.texpadtmp/calculusACompleteCourse/cha_1.aux))
@@ -560,18 +560,18 @@ Package rerunfilecheck Info: File `master.out' has not changed.
 (rerunfilecheck)             Checksum: DB6D3F75CA75912D3403DDAEA64379BD;703.
  ) 
 Here is how much of TeX's memory you used:
- 13005 strings out of 478287
- 211073 string characters out of 5846750
+ 13006 strings out of 478287
+ 211079 string characters out of 5846750
  515519 words of memory out of 5000000
  30960 multiletter control sequences out of 15000+600000
  483479 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,12n,80p,623b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
-Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/university/singleVariableCalculus/.texpadtmp/master.pdf (5 pages, 153227 bytes).
+Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/university/singleVariableCalculus/.texpadtmp/master.pdf (6 pages, 153696 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 94 compressed objects within 1 object stream
- 15 named destinations out of 1000 (max. 500000)
+ 132 PDF objects out of 1000 (max. 8388607)
+ 97 compressed objects within 1 object stream
+ 16 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
