@@ -25,5 +25,3 @@ This website is for hosting and sharing my notes and projects. Here under are so
 <img src='./img/noteExample_1.jpg'>
 
 <img src='./img/noteExample_2.jpg'>
-
-test
