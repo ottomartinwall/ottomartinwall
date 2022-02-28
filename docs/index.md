@@ -1,6 +1,6 @@
 # Welcome 
 
-This website is for hosting and sharing my notes and projects.
+This website is for hosting and sharing my notes and projects. TEST
 
 <img src="./img/threeSuns.gif" alt="this slowpoke moves"  width="100%" />
 
