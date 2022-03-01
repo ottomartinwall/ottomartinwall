@@ -12,7 +12,7 @@ This website is for hosting and sharing my notes and projects. Here under are so
 </video>
 
 <video width="100%" height="100%" autoplay loop muted playsinline>
-    <source src="./img/doublePendulum.mp4" type="video/mp4">
+    <source src="./img/doublePendulum2.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
 
