@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  15 MAR 2022 21:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  16 MAR 2022 11:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -619,9 +619,6 @@ Overfull \hbox (1.98871pt too wide) in paragraph at lines 312--313
 \openout2 = `chapters/cha_4.aux'.
 
  (./chapters/cha_4.tex) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/chapters/cha_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/chapters/cha_2.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/chapters/cha_3.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/chapters/cha_4.aux))
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `master.out' has not changed.
 (rerunfilecheck)             Checksum: E3C97FC6F74D15BE4D6E8F11F03C3E0B;12816.
  ) 
@@ -634,7 +631,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  73i,12n,80p,707b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfso1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
-Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/master.pdf (29 pages, 231818 bytes).
+Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/master.pdf (29 pages, 235518 bytes).
 PDF statistics:
  673 PDF objects out of 1000 (max. 8388607)
  604 compressed objects within 7 object streams
