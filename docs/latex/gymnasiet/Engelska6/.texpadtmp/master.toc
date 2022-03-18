@@ -43,6 +43,7 @@
 \contentsline {subsubsection}{\numberline {2.3.4}Common Forms of Litterature}{23}{subsubsection.2.3.4}%
 \contentsline {subsubsection}{\numberline {2.3.5}Famous Authors and Works}{23}{subsubsection.2.3.5}%
 \contentsline {subsubsection}{\numberline {2.3.6}\textit {One Famous Work Example}}{23}{subsubsection.2.3.6}%
+\contentsline {subsubsection}{\numberline {2.3.7}Comparison Between Two Plays}{23}{subsubsection.2.3.7}%
 \contentsline {subsection}{\numberline {2.4}Enlightenment}{24}{subsection.2.4}%
 \contentsline {subsubsection}{\numberline {2.4.1}Name and Year}{24}{subsubsection.2.4.1}%
 \contentsline {subsubsection}{\numberline {2.4.2}The Situation in English Society}{24}{subsubsection.2.4.2}%
