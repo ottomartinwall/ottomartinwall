@@ -16,7 +16,7 @@ This website is for hosting and sharing my notes and projects. Here under are so
     Your browser does not support the video tag.
 </video>
 
-## Examples of my notes:
+## Examples of notes from Single Variable Calculus:
 
 ---
 
