@@ -23,3 +23,6 @@ theme:
 
 extra:
   generator: false
+  analytics:
+    provider: google
+    property: G-07WBJNNWSC
