@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  10 APR 2022 18:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  11 APR 2022 17:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -404,6 +404,8 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \c@mdf@env@ii=\count296
 \c@mdf@zref@counter=\count297
 Package zref Info: New property: mdf@pagevalue on input line 895.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -536,15 +538,15 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/master.toc [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2])
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3])
 \tf@toc=\write4
 \openout4 = `master.toc'.
 
- [3]
+ [4]
 \c@definition=\count308
 \c@theorem=\count309
 \c@important=\count310
- [4]
+ [5]
 \openout2 = `chapters/cha_1.aux'.
 
  (./chapters/cha_1.tex
@@ -558,29 +560,29 @@ File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 17.
- [5
+ [6
 
 ]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 41.
- [6]
-Package mdframed Info: mdframed detected package amsthm 
- changed the theorem header of amsthm
-(mdframed)              on input line 55.
  [7]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 69.
+(mdframed)              on input line 55.
  [8]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 81.
+(mdframed)              on input line 69.
  [9]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 95.
+(mdframed)              on input line 81.
  [10]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 95.
+ [11]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 115.
@@ -592,51 +594,77 @@ Overfull \hbox (2.02359pt too wide) in paragraph at lines 127--128
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 130.
-[11] [12] [13] [14] [15] [16] [17]
+[12] [13] [14] [15] [16] [17] [18]
 Overfull \hbox (1.98871pt too wide) in paragraph at lines 312--313
  []\T1/cmss/bx/n/12 Coordinating Con-junc-tions[] \T1/cmss/m/n/12 Co-or-di-nat-ing con-junc-tions are con-junc-tions
  []
 
-[18]) [19] [20
+[19]) [20] [21
 
 
 ]
 \openout2 = `chapters/cha_2.aux'.
 
- (./chapters/cha_2.tex [21
+ (./chapters/cha_2.tex [22
 
-] [22] [23] [24] [25] [26] [27]) [28] [29
+] [23] [24] [25] [26] [27] [28] [29]) [30] [31
 
 
 ]
 \openout2 = `chapters/cha_3.aux'.
 
- (./chapters/cha_3.tex) [30
+ (./chapters/cha_3.tex) [32
 
 
 
 ]
 \openout2 = `chapters/cha_4.aux'.
 
- (./chapters/cha_4.tex [31
+ (./chapters/cha_4.tex [33
 
-]) [32] (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/chapters/cha_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/chapters/cha_2.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/chapters/cha_3.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/chapters/cha_4.aux))
+]) [34] [35] (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/chapters/cha_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/chapters/cha_2.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/chapters/cha_3.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/chapters/cha_4.aux))
 Package rerunfilecheck Info: File `master.out' has not changed.
 (rerunfilecheck)             Checksum: A9819933A62522B4536BB75BA528CE78;13478.
  ) 
 Here is how much of TeX's memory you used:
- 13357 strings out of 478287
- 218592 string characters out of 5846750
- 523284 words of memory out of 5000000
- 31146 multiletter control sequences out of 15000+600000
+ 13407 strings out of 478287
+ 219681 string characters out of 5846750
+ 520589 words of memory out of 5000000
+ 31189 multiletter control sequences out of 15000+600000
  490043 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,12n,80p,707b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,12n,80p,707b,416s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.10} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.9} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.8} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.7} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.6} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
+
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfso1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
-Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/master.pdf (32 pages, 242289 bytes).
+Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/engelska6/.texpadtmp/master.pdf (35 pages, 244705 bytes).
 PDF statistics:
- 704 PDF objects out of 1000 (max. 8388607)
- 632 compressed objects within 7 object streams
- 147 named destinations out of 1000 (max. 500000)
+ 716 PDF objects out of 1000 (max. 8388607)
+ 641 compressed objects within 7 object streams
+ 150 named destinations out of 1000 (max. 500000)
  617 words of extra memory for PDF output out of 10000 (max. 10000000)
 
