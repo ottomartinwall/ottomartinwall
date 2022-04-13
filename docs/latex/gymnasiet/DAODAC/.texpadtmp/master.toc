@@ -6,75 +6,75 @@
 \contentsline {paragraph}{4. Vad gör windows update?}{3}{section*.5}%
 \contentsline {paragraph}{5. Vad skyddar datorn mot virus?}{3}{section*.6}%
 \contentsline {paragraph}{6. Var i windows 10 kan man ändra vilka WIFI-nätverk som ska anslutas till automatiskt?}{3}{section*.7}%
-\contentsline {paragraph}{7. Vilka tre typer av nätverksplatser finns det?}{3}{section*.8}%
+\contentsline {paragraph}{7. Vilka tre typer av nätverksplatser finns det?}{4}{section*.8}%
 \contentsline {paragraph}{8. Nämn minst tre olika exempel på molntjänster}{4}{section*.9}%
 \contentsline {paragraph}{9. Vad kan man göra om man har ett program som har fryst sig?}{4}{section*.10}%
 \contentsline {paragraph}{10. Inom vilken tid måste man aktivera windows 10?}{4}{section*.11}%
 \contentsline {paragraph}{1. Var i windows anger man vilka datakällor (SQL-server) som skall länkas till datorn?}{4}{section*.12}%
 \contentsline {paragraph}{2. Hur får du fram dolda filer?}{4}{section*.13}%
 \contentsline {paragraph}{3. Vilka tre typer av datavirus finns det? Förklara 1 typ mer utförligt}{4}{section*.14}%
-\contentsline {paragraph}{4. Vilken åtgärd kan vara lämplig om man misstänker fel på internminnet?}{4}{section*.15}%
+\contentsline {paragraph}{4. Vilken åtgärd kan vara lämplig om man misstänker fel på internminnet?}{5}{section*.15}%
 \contentsline {paragraph}{5. Vilka tre filsystem för hårddiskar kan användas i windows 10?}{5}{section*.16}%
 \contentsline {paragraph}{6. Vilken mapp i profilen innehåller sparade inställningar för olika program?}{5}{section*.17}%
 \contentsline {paragraph}{7. Vilka är de fem behörighetsnivåerna man som standard kan ange för filer?}{5}{section*.18}%
 \contentsline {paragraph}{8. Förklara skillnaden mellan Partition och Volym. Ange exempel på situationer där du använder dem.}{5}{section*.19}%
 \contentsline {paragraph}{9. Du laddar ner ett program som kräver en minimum av prestanda och en rekommenderad prestanda på din dator. Hur kan du veta om din dator uppfyller kraven och kan du checka i windows att din dator hanterar programmet och inte blir överbelastat?}{5}{section*.20}%
-\contentsline {paragraph}{10. En person kommer till dig och vill ha hjälp att fixa sin dator. Personen berättar att datorn fungerade alldeles utmärkt tills igår. Personen stängde ner datorn men den behövde uppdateras innan den stängdes av. Vad är problemet och hur kan du fixa datorn?}{5}{section*.21}%
-\contentsline {subsection}{\numberline {1.2}Instuderingsfrågor}{6}{subsection.1.2}%
-\contentsline {paragraph}{1. Förklara}{6}{section*.22}%
-\contentsline {paragraph}{2. Vad för typ av fil?}{6}{section*.23}%
-\contentsline {paragraph}{3. Förklara mapp och hur du skapar en.}{7}{section*.24}%
-\contentsline {paragraph}{4. Vart finns de flesta inställningarna?}{7}{section*.25}%
-\contentsline {paragraph}{5. Var avinstallerar du ett program?}{7}{section*.26}%
-\contentsline {paragraph}{6. Vad gör windows update?}{7}{section*.27}%
-\contentsline {paragraph}{7. Vad skyddar datorn mot virus?}{7}{section*.28}%
-\contentsline {paragraph}{8. Vilken säkerhetsåtgärd finns att använda mot förlust av data?}{7}{section*.29}%
-\contentsline {paragraph}{9. Var i windows anger man vilka datakällor (SQL-server) som skall länkas till datorn?}{7}{section*.30}%
-\contentsline {paragraph}{10. Kan man logga händelser i operativsystemet?}{7}{section*.31}%
-\contentsline {paragraph}{11. Vad är en process?}{7}{section*.32}%
-\contentsline {paragraph}{12. Hur gör man för att köra ett program som administratör?}{8}{section*.33}%
-\contentsline {paragraph}{13. Vart kollar du hur mycket av datorns resurser som används?}{8}{section*.34}%
-\contentsline {paragraph}{14. Vilka tre typer av datavirus finns det?}{8}{section*.35}%
-\contentsline {paragraph}{15. Vad är ett antivirusskydd?}{8}{section*.36}%
-\contentsline {paragraph}{16. I vilken mapp i windows lagras de flesta drivrutinerna?}{8}{section*.37}%
-\contentsline {paragraph}{17. I vilka 3 program hittar man de flesta funktionerna och program för att hantera maskinvara?}{8}{section*.38}%
-\contentsline {paragraph}{18. Var kan man göra inställningar för de resurser som en maskinvara använder?}{8}{section*.39}%
-\contentsline {paragraph}{19. Om man har installerat en ny drivrutin och datorn hänger sig och inte fungerar efter omstart, vad kan man göra då?}{8}{section*.40}%
-\contentsline {paragraph}{20. Vilka tre filsystem för hårddiskar kan användas i windows 10?}{9}{section*.41}%
-\contentsline {paragraph}{21. Vilket av dessa är säkrast? (kopplat till fråga 20)}{9}{section*.42}%
-\contentsline {paragraph}{22. Förklara skillnaden mellan Partition och Volym}{9}{section*.43}%
-\contentsline {paragraph}{23. Kan man krympa volymen med systemet i Windows 10?}{9}{section*.44}%
-\contentsline {paragraph}{24. Vart gör man inställningar för val startoperativsystem?}{9}{section*.45}%
-\contentsline {paragraph}{25. Hur kommer man åt den avancerade startmenyn?}{9}{section*.46}%
-\contentsline {paragraph}{26. Vad kan vara en lämplig åtgärd om datorn fungerat bra fram tills igår när ett flertal uppdateringar installerats?}{9}{section*.47}%
-\contentsline {paragraph}{27. Nämn tre verktyg för att studera datorns resursanvändning och prestanda?}{9}{section*.48}%
-\contentsline {paragraph}{28. Vilken åtgärd kan vara lämplig om man misstänker fel på internminnet?}{9}{section*.49}%
-\contentsline {paragraph}{29. I vilket program i windows hanterar man alla nätverksanslutningar i datorn?}{10}{section*.50}%
-\contentsline {paragraph}{30. Vilka tre typer av nätverksplatser finns det?}{10}{section*.51}%
-\contentsline {paragraph}{31. Vilken åtgärd kan man göra i Windows 10 om man får problem med en nätverksanslutning?}{10}{section*.52}%
-\contentsline {paragraph}{33. Vad menas med en molntjänst?}{10}{section*.53}%
-\contentsline {paragraph}{34. Nämn minst tre exempel på olika molntjänster}{10}{section*.54}%
-\contentsline {paragraph}{35. Vad krävs för att kunna använda använda datorer i en hemgrupp?}{10}{section*.55}%
-\contentsline {paragraph}{36. Inom vilken tid måste man aktivera Windows?}{10}{section*.56}%
-\contentsline {paragraph}{37. Hur får du fram dolda filer?}{10}{section*.57}%
-\contentsline {paragraph}{38. Hur startar man aktivitetshanteraren? \textit {(Task Manager)}}{10}{section*.58}%
-\contentsline {paragraph}{39. Vad menas med en process i Windows?}{11}{section*.59}%
-\contentsline {paragraph}{40. Hur kan man få en uppfattning om hur väl datorns prestanda uppfyller kraven från de program och tjänster som körs i datorn?}{11}{section*.60}%
-\contentsline {paragraph}{41. Vad kan man göra om man har ett program som har "fryst" sig?}{11}{section*.61}%
-\contentsline {paragraph}{42. Hur gör för att köra ett program som administratör?}{11}{section*.62}%
-\contentsline {paragraph}{43. Vilken mapp i profilen innehåller sparade inställningar för olika program?}{11}{section*.63}%
-\contentsline {paragraph}{44. Var kan man ange Systemrättigheter (användarrättigheter)?}{11}{section*.64}%
-\contentsline {paragraph}{45. Vilket filsystem krävs för att man ska kunna ange behörigheter till filer och mappar?}{11}{section*.65}%
-\contentsline {paragraph}{46. Hur anger man en behörighet till en fil eller mapp?}{11}{section*.66}%
-\contentsline {paragraph}{47. Vilka är de sex behörighetsnivåerna man som standard kan ange för mappar?}{11}{section*.67}%
-\contentsline {paragraph}{48. Vilka är de fem behörighetsnivåerna man som standard kan ange för filer?}{11}{section*.68}%
-\contentsline {section}{\numberline {2}Nätmask och VPN}{12}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Instuderingsfrågor}{13}{subsection.2.1}%
-\contentsline {paragraph}{1. Vad är routing?/Hur går det till?}{13}{section*.69}%
-\contentsline {paragraph}{2. Vad är en nätmask?/Förklara varför det används}{13}{section*.70}%
-\contentsline {paragraph}{3. Vad är subnetting?/Förklara varför det används}{13}{section*.71}%
-\contentsline {paragraph}{4. Vilka tre typer av routeanslutingar finns det?}{13}{section*.72}%
-\contentsline {paragraph}{5. Nämn vilka sex routetyper det finns (6 st)}{13}{section*.73}%
-\contentsline {paragraph}{6. Joakim ska skicka en fil till en kollega.(Samma nätverk) Hur går processen till? [E-A]}{13}{section*.74}%
-\contentsline {paragraph}{7. Företaget du arbetar på använder mer enheter än vad deras klass C nätverk kan tilldela. Varför kan inte nätverket tilldela fler enheter och hur gör du för att lösa problemet?}{13}{section*.75}%
-\contentsline {paragraph}{8. Förklara vad VPN är, hur det fungerar och varför det är bra att använda VPN både privat och företagsrelaterat.}{13}{section*.76}%
+\contentsline {paragraph}{10. En person kommer till dig och vill ha hjälp att fixa sin dator. Personen berättar att datorn fungerade alldeles utmärkt tills igår. Personen stängde ner datorn men den behövde uppdateras innan den stängdes av. Vad är problemet och hur kan du fixa datorn?}{6}{section*.21}%
+\contentsline {subsection}{\numberline {1.2}Instuderingsfrågor}{7}{subsection.1.2}%
+\contentsline {paragraph}{1. Förklara}{7}{section*.22}%
+\contentsline {paragraph}{2. Vad för typ av fil?}{7}{section*.23}%
+\contentsline {paragraph}{3. Förklara mapp och hur du skapar en.}{8}{section*.24}%
+\contentsline {paragraph}{4. Vart finns de flesta inställningarna?}{8}{section*.25}%
+\contentsline {paragraph}{5. Var avinstallerar du ett program?}{8}{section*.26}%
+\contentsline {paragraph}{6. Vad gör windows update?}{8}{section*.27}%
+\contentsline {paragraph}{7. Vad skyddar datorn mot virus?}{8}{section*.28}%
+\contentsline {paragraph}{8. Vilken säkerhetsåtgärd finns att använda mot förlust av data?}{8}{section*.29}%
+\contentsline {paragraph}{9. Var i windows anger man vilka datakällor (SQL-server) som skall länkas till datorn?}{9}{section*.30}%
+\contentsline {paragraph}{10. Kan man logga händelser i operativsystemet?}{9}{section*.31}%
+\contentsline {paragraph}{11. Vad är en process?}{9}{section*.32}%
+\contentsline {paragraph}{12. Hur gör man för att köra ett program som administratör?}{9}{section*.33}%
+\contentsline {paragraph}{13. Vart kollar du hur mycket av datorns resurser som används?}{9}{section*.34}%
+\contentsline {paragraph}{14. Vilka tre typer av datavirus finns det?}{9}{section*.35}%
+\contentsline {paragraph}{15. Vad är ett antivirusskydd?}{10}{section*.36}%
+\contentsline {paragraph}{16. I vilken mapp i windows lagras de flesta drivrutinerna?}{10}{section*.37}%
+\contentsline {paragraph}{17. I vilka 3 program hittar man de flesta funktionerna och program för att hantera maskinvara?}{10}{section*.38}%
+\contentsline {paragraph}{18. Var kan man göra inställningar för de resurser som en maskinvara använder?}{10}{section*.39}%
+\contentsline {paragraph}{19. Om man har installerat en ny drivrutin och datorn hänger sig och inte fungerar efter omstart, vad kan man göra då?}{10}{section*.40}%
+\contentsline {paragraph}{20. Vilka tre filsystem för hårddiskar kan användas i windows 10?}{10}{section*.41}%
+\contentsline {paragraph}{21. Vilket av dessa är säkrast? (kopplat till fråga 20)}{10}{section*.42}%
+\contentsline {paragraph}{22. Förklara skillnaden mellan Partition och Volym}{10}{section*.43}%
+\contentsline {paragraph}{23. Kan man krympa volymen med systemet i Windows 10?}{11}{section*.44}%
+\contentsline {paragraph}{24. Vart gör man inställningar för val startoperativsystem?}{11}{section*.45}%
+\contentsline {paragraph}{25. Hur kommer man åt den avancerade startmenyn?}{11}{section*.46}%
+\contentsline {paragraph}{26. Vad kan vara en lämplig åtgärd om datorn fungerat bra fram tills igår när ett flertal uppdateringar installerats?}{11}{section*.47}%
+\contentsline {paragraph}{27. Nämn tre verktyg för att studera datorns resursanvändning och prestanda?}{11}{section*.48}%
+\contentsline {paragraph}{28. Vilken åtgärd kan vara lämplig om man misstänker fel på internminnet?}{11}{section*.49}%
+\contentsline {paragraph}{29. I vilket program i windows hanterar man alla nätverksanslutningar i datorn?}{11}{section*.50}%
+\contentsline {paragraph}{30. Vilka tre typer av nätverksplatser finns det?}{12}{section*.51}%
+\contentsline {paragraph}{31. Vilken åtgärd kan man göra i Windows 10 om man får problem med en nätverksanslutning?}{12}{section*.52}%
+\contentsline {paragraph}{33. Vad menas med en molntjänst?}{12}{section*.53}%
+\contentsline {paragraph}{34. Nämn minst tre exempel på olika molntjänster}{12}{section*.54}%
+\contentsline {paragraph}{35. Vad krävs för att kunna använda använda datorer i en hemgrupp?}{12}{section*.55}%
+\contentsline {paragraph}{36. Inom vilken tid måste man aktivera Windows?}{12}{section*.56}%
+\contentsline {paragraph}{37. Hur får du fram dolda filer?}{12}{section*.57}%
+\contentsline {paragraph}{38. Hur startar man aktivitetshanteraren? \textit {(Task Manager)}}{12}{section*.58}%
+\contentsline {paragraph}{39. Vad menas med en process i Windows?}{12}{section*.59}%
+\contentsline {paragraph}{40. Hur kan man få en uppfattning om hur väl datorns prestanda uppfyller kraven från de program och tjänster som körs i datorn?}{13}{section*.60}%
+\contentsline {paragraph}{41. Vad kan man göra om man har ett program som har "fryst" sig?}{13}{section*.61}%
+\contentsline {paragraph}{42. Hur gör för att köra ett program som administratör?}{13}{section*.62}%
+\contentsline {paragraph}{43. Vilken mapp i profilen innehåller sparade inställningar för olika program?}{13}{section*.63}%
+\contentsline {paragraph}{44. Var kan man ange Systemrättigheter (användarrättigheter)?}{13}{section*.64}%
+\contentsline {paragraph}{45. Vilket filsystem krävs för att man ska kunna ange behörigheter till filer och mappar?}{13}{section*.65}%
+\contentsline {paragraph}{46. Hur anger man en behörighet till en fil eller mapp?}{13}{section*.66}%
+\contentsline {paragraph}{47. Vilka är de sex behörighetsnivåerna man som standard kan ange för mappar?}{13}{section*.67}%
+\contentsline {paragraph}{48. Vilka är de fem behörighetsnivåerna man som standard kan ange för filer?}{14}{section*.68}%
+\contentsline {section}{\numberline {2}Nätmask och VPN}{15}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Instuderingsfrågor}{16}{subsection.2.1}%
+\contentsline {paragraph}{1. Vad är routing?/Hur går det till?}{16}{section*.69}%
+\contentsline {paragraph}{2. Vad är en nätmask?/Förklara varför det används}{16}{section*.70}%
+\contentsline {paragraph}{3. Vad är subnetting?/Förklara varför det används}{16}{section*.71}%
+\contentsline {paragraph}{4. Vilka tre typer av routeanslutingar finns det?}{17}{section*.72}%
+\contentsline {paragraph}{5. Nämn vilka sex routetyper det finns (6 st)}{17}{section*.73}%
+\contentsline {paragraph}{6. Joakim ska skicka en fil till en kollega.(Samma nätverk) Hur går processen till? [E-A]}{17}{section*.74}%
+\contentsline {paragraph}{7. Företaget du arbetar på använder mer enheter än vad deras klass C nätverk kan tilldela. Varför kan inte nätverket tilldela fler enheter och hur gör du för att lösa problemet?}{17}{section*.75}%
+\contentsline {paragraph}{8. Förklara vad VPN är, hur det fungerar och varför det är bra att använda VPN både privat och företagsrelaterat.}{18}{section*.76}%
