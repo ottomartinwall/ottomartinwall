@@ -75,6 +75,6 @@
 \contentsline {paragraph}{3. Vad är subnetting?/Förklara varför det används}{17}{section*.71}%
 \contentsline {paragraph}{4. Vilka tre typer av routeanslutingar finns det?}{17}{section*.72}%
 \contentsline {paragraph}{5. Nämn vilka sex routetyper det finns (6 st)}{17}{section*.73}%
-\contentsline {paragraph}{6. Joakim ska skicka en fil till en kollega.(Samma nätverk) Hur går processen till? [E-A]}{17}{section*.74}%
+\contentsline {paragraph}{6. Joakim ska skicka en fil till en kollega.(Samma nätverk) Hur går processen till? [E-A]}{18}{section*.74}%
 \contentsline {paragraph}{7. Företaget du arbetar på använder mer enheter än vad deras klass C nätverk kan tilldela. Varför kan inte nätverket tilldela fler enheter och hur gör du för att lösa problemet?}{18}{section*.75}%
-\contentsline {paragraph}{8. Förklara vad VPN är, hur det fungerar och varför det är bra att använda VPN både privat och företagsrelaterat.}{18}{section*.76}%
+\contentsline {paragraph}{8. Förklara vad VPN är, hur det fungerar och varför det är bra att använda VPN både privat och företagsrelaterat.}{19}{section*.76}%
