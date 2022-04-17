@@ -4,4 +4,11 @@
 \contentsline {subsubsection}{\numberline {1.1.2}Exercises 1.2}{5}{subsubsection.1.1.2}%
 \contentsline {paragraph}{78. What is the domain of $\qopname \relax o{sin}\frac {1}{x}$ ? Evaluate $\qopname \relax m{lim}_{x\rightarrow 0} x\qopname \relax o{sin}\frac {1}{x}$.}{5}{section*.2}%
 \contentsline {paragraph}{79. Suppose $|f(x)| \leq g(x) \forall x$. What can you conclude about $\qopname \relax m{lim}_{x\rightarrow a} f(x)$ if $\qopname \relax m{lim}_{x\rightarrow a} g(x) = 0$ ? What if $\qopname \relax m{lim}_{x\rightarrow a} g(x) = 3$ ?}{5}{section*.3}%
-\contentsline {section}{\numberline {2}Lectures}{6}{section.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Exercises 1.3}{6}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}Exercises 1.4}{6}{subsubsection.1.1.4}%
+\contentsline {paragraph}{32.}{6}{section*.4}%
+\contentsline {paragraph}{33.}{6}{section*.5}%
+\contentsline {paragraph}{34.}{6}{section*.6}%
+\contentsline {subsubsection}{\numberline {1.1.5}Exercises 1.5}{7}{subsubsection.1.1.5}%
+\contentsline {paragraph}{31.}{7}{section*.7}%
+\contentsline {section}{\numberline {2}Lectures}{8}{section.2}%
