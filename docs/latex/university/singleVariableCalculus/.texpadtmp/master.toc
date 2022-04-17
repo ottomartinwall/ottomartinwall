@@ -2,4 +2,6 @@
 \contentsline {subsection}{\numberline {1.1}Limits and Continuity}{3}{subsection.1.1}%
 \contentsline {subsubsection}{\numberline {1.1.1}Exercises 1.1}{5}{subsubsection.1.1.1}%
 \contentsline {subsubsection}{\numberline {1.1.2}Exercises 1.2}{5}{subsubsection.1.1.2}%
+\contentsline {paragraph}{78. What is the domain of $\qopname \relax o{sin}\frac {1}{x}$ ? Evaluate $\qopname \relax m{lim}_{x\rightarrow 0} x\qopname \relax o{sin}\frac {1}{x}$.}{5}{section*.2}%
+\contentsline {paragraph}{79. Suppose $|f(x)| \leq g(x) \forall x$. What can you conclude about $\qopname \relax m{lim}_{x\rightarrow a} f(x)$ if $\qopname \relax m{lim}_{x\rightarrow a} g(x) = 0$ ? What if $\qopname \relax m{lim}_{x\rightarrow a} g(x) = 3$ ?}{5}{section*.3}%
 \contentsline {section}{\numberline {2}Lectures}{6}{section.2}%
