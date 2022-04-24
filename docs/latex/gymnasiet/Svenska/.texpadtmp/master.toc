@@ -4,8 +4,11 @@
 \contentsline {subsubsection}{\numberline {1.2.1}Förklara Begreppen}{4}{subsubsection.1.2.1}%
 \contentsline {subsubsection}{\numberline {1.2.2}Kafka}{4}{subsubsection.1.2.2}%
 \contentsline {subsubsection}{\numberline {1.2.3}Förklara orden}{4}{subsubsection.1.2.3}%
-\contentsline {section}{\numberline {2}Svenska 3}{5}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Den nya klassdebatten - PM}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Jämförande diktanalys}{8}{subsection.2.2}%
-\contentsline {subsubsection}{\numberline {2.2.1}Anteckningar}{8}{subsubsection.2.2.1}%
-\contentsline {paragraph}{Till förruttnelsen}{8}{section*.2}%
+\contentsline {section}{\numberline {2}Svenska 3}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Den nya klassdebatten - PM}{7}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Jämförande diktanalys}{9}{subsection.2.2}%
+\contentsline {paragraph}{Till Förruttnelsen}{9}{section*.2}%
+\contentsline {paragraph}{Döden tänkte jag mig så}{10}{section*.3}%
+\contentsline {paragraph}{Jämförelse - Differenser}{10}{section*.4}%
+\contentsline {subsection}{\numberline {2.3}Argumenterande tal}{12}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Behåll distansundervisningen (för de som vill!)}{12}{subsubsection.2.3.1}%
