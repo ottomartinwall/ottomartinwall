@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  25 APR 2022 14:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  17 FEB 2022 17:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -132,16 +132,12 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 \Hy@SectionHShift=\skip49
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/inputenc.sty
-Package: inputenc 2021/02/14 v1.3d Input encoding file
-\inpenc@prehook=\toks17
-\inpenc@posthook=\toks18
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
- (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+
+(/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks19
+\@emptytoks=\toks17
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -156,7 +152,7 @@ For additional information on amsmath, use the `?' option.
 Package: amstext 2021/08/26 v2.01 AMS text
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks20
+\@emptytoks=\toks18
 \ex@=\dimen143
 )) (/usr/local/texlive/2021/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
@@ -184,34 +180,34 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
 \dotsspace@=\muskip17
 \c@parentequation=\count276
 \dspbrk@lvl=\count277
-\tag@help=\toks21
+\tag@help=\toks19
 \row@=\count278
 \column@=\count279
 \maxfields@=\count280
-\andhelp@=\toks22
+\andhelp@=\toks20
 \eqnshift@=\dimen146
 \alignsep@=\dimen147
 \tagshift@=\dimen148
 \tagwidth@=\dimen149
 \totwidth@=\dimen150
 \lineht@=\dimen151
-\@envbody=\toks23
+\@envbody=\toks21
 \multlinegap=\skip51
 \multlinetaggap=\skip52
-\mathdisplay@stack=\toks24
+\mathdisplay@stack=\toks22
 LaTeX Info: Redefining \[ on input line 2938.
 LaTeX Info: Redefining \] on input line 2939.
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/amscls/amsthm.sty
 Package: amsthm 2020/05/29 v2.20.6
-\thm@style=\toks25
-\thm@bodyfont=\toks26
-\thm@headfont=\toks27
-\thm@notefont=\toks28
-\thm@headpunct=\toks29
+\thm@style=\toks23
+\thm@bodyfont=\toks24
+\thm@headfont=\toks25
+\thm@notefont=\toks26
+\thm@headpunct=\toks27
 \thm@preskip=\skip53
 \thm@postskip=\skip54
 \thm@headsep=\skip55
-\dth@everypar=\toks30
+\dth@everypar=\toks28
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/mathtools/mathtools.sty
 Package: mathtools 2021/04/12 v1.27 mathematical typesetting tools
  (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/calc.sty
@@ -250,8 +246,8 @@ LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 130.
 )
 Package: xstring 2021/07/21 v1.84 String manipulations (CT)
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/systeme/systeme.tex
-\SYS_systemecode=\toks31
-\SYS_systempreamble=\toks32
+\SYS_systemecode=\toks29
+\SYS_systempreamble=\toks30
 \SYSeqnum=\count287
 )
 Package: systeme 2020/05/03 v0.34 Mise en forme de systemes d'equations (CT)
@@ -287,133 +283,14 @@ Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
 Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
-)) (/usr/local/texlive/2021/texmf-dist/tex/latex/mdframed/mdframed.sty
-Package: mdframed 2013/07/01 1.9b: mdframed
- (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2022-01-21 L3 programming layer (loader) 
- (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count290
-\l__pdf_internal_box=\box53
-))
-Package: xparse 2022-01-12 L3 Experimental document command parser
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/zref/zref-abspage.sty
-Package: zref-abspage 2020-07-03 v2.32 Module abspage for zref (HO)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/zref/zref-base.sty
-Package: zref-base 2020-07-03 v2.32 Module base for zref (HO)
-Package zref Info: New property list: main on input line 764.
-Package zref Info: New property: default on input line 765.
-Package zref Info: New property: page on input line 766.
-)
-\c@abspage=\count291
-Package zref Info: New property: abspage on input line 66.
-)
-(/usr/local/texlive/2021/texmf-dist/tex/latex/needspace/needspace.sty
-Package: needspace 2010/09/12 v1.3d reserve vertical space
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
-Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
- (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
-File: color.cfg 2016/01/02 v1.6 sample color configuration
-)
-Package color Info: Driver file: pdftex.def on input line 149.
-)
-\mdf@templength=\skip62
-\c@mdf@globalstyle@cnt=\count292
-\mdf@skipabove@length=\skip63
-\mdf@skipbelow@length=\skip64
-\mdf@leftmargin@length=\skip65
-\mdf@rightmargin@length=\skip66
-\mdf@innerleftmargin@length=\skip67
-\mdf@innerrightmargin@length=\skip68
-\mdf@innertopmargin@length=\skip69
-\mdf@innerbottommargin@length=\skip70
-\mdf@splittopskip@length=\skip71
-\mdf@splitbottomskip@length=\skip72
-\mdf@outermargin@length=\skip73
-\mdf@innermargin@length=\skip74
-\mdf@linewidth@length=\skip75
-\mdf@innerlinewidth@length=\skip76
-\mdf@middlelinewidth@length=\skip77
-\mdf@outerlinewidth@length=\skip78
-\mdf@roundcorner@length=\skip79
-\mdf@footenotedistance@length=\skip80
-\mdf@userdefinedwidth@length=\skip81
-\mdf@needspace@length=\skip82
-\mdf@frametitleaboveskip@length=\skip83
-\mdf@frametitlebelowskip@length=\skip84
-\mdf@frametitlerulewidth@length=\skip85
-\mdf@frametitleleftmargin@length=\skip86
-\mdf@frametitlerightmargin@length=\skip87
-\mdf@shadowsize@length=\skip88
-\mdf@extratopheight@length=\skip89
-\mdf@subtitleabovelinewidth@length=\skip90
-\mdf@subtitlebelowlinewidth@length=\skip91
-\mdf@subtitleaboveskip@length=\skip92
-\mdf@subtitlebelowskip@length=\skip93
-\mdf@subtitleinneraboveskip@length=\skip94
-\mdf@subtitleinnerbelowskip@length=\skip95
-\mdf@subsubtitleabovelinewidth@length=\skip96
-\mdf@subsubtitlebelowlinewidth@length=\skip97
-\mdf@subsubtitleaboveskip@length=\skip98
-\mdf@subsubtitlebelowskip@length=\skip99
-\mdf@subsubtitleinneraboveskip@length=\skip100
-\mdf@subsubtitleinnerbelowskip@length=\skip101
- (/usr/local/texlive/2021/texmf-dist/tex/latex/mdframed/md-frame-0.mdf
-File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
-)
-\mdf@frametitlebox=\box54
-\mdf@footnotebox=\box55
-\mdf@splitbox@one=\box56
-\mdf@splitbox@two=\box57
-\mdf@splitbox@save=\box58
-\mdfsplitboxwidth=\skip102
-\mdfsplitboxtotalwidth=\skip103
-\mdfsplitboxheight=\skip104
-\mdfsplitboxdepth=\skip105
-\mdfsplitboxtotalheight=\skip106
-\mdfframetitleboxwidth=\skip107
-\mdfframetitleboxtotalwidth=\skip108
-\mdfframetitleboxheight=\skip109
-\mdfframetitleboxdepth=\skip110
-\mdfframetitleboxtotalheight=\skip111
-\mdffootnoteboxwidth=\skip112
-\mdffootnoteboxtotalwidth=\skip113
-\mdffootnoteboxheight=\skip114
-\mdffootnoteboxdepth=\skip115
-\mdffootnoteboxtotalheight=\skip116
-\mdftotallinewidth=\skip117
-\mdfboundingboxwidth=\skip118
-\mdfboundingboxtotalwidth=\skip119
-\mdfboundingboxheight=\skip120
-\mdfboundingboxdepth=\skip121
-\mdfboundingboxtotalheight=\skip122
-\mdf@freevspace@length=\skip123
-\mdf@horizontalwidthofbox@length=\skip124
-\mdf@verticalmarginwhole@length=\skip125
-\mdf@horizontalspaceofbox=\skip126
-\mdfsubtitleheight=\skip127
-\mdfsubsubtitleheight=\skip128
-\c@mdfcountframes=\count293
-
-****** mdframed patching \endmdf@trivlist
-
-****** -- success******
-
-\mdf@envdepth=\count294
-\c@mdf@env@i=\count295
-\c@mdf@env@ii=\count296
-\c@mdf@zref@counter=\count297
-Package zref Info: New property: mdf@pagevalue on input line 895.
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/setspace/setspace.sty
-Package: setspace 2011/12/19 v6.7a set line spacing
-) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
  (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count298
-\Gm@cntv=\count299
-\c@Gm@tempcnt=\count300
+\Gm@cnth=\count290
+\Gm@cntv=\count291
+\c@Gm@tempcnt=\count292
 \Gm@bindingoffset=\dimen165
 \Gm@wd@mp=\dimen166
 \Gm@odd@mp=\dimen167
@@ -422,23 +299,28 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen170
 \Gm@layouthoffset=\dimen171
 \Gm@layoutvoffset=\dimen172
-\Gm@dimlist=\toks33
+\Gm@dimlist=\toks31
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
-\f@nch@headwidth=\skip129
-\f@nch@O@elh=\skip130
-\f@nch@O@erh=\skip131
-\f@nch@O@olh=\skip132
-\f@nch@O@orh=\skip133
-\f@nch@O@elf=\skip134
-\f@nch@O@erf=\skip135
-\f@nch@O@olf=\skip136
-\f@nch@O@orf=\skip137
+\f@nch@headwidth=\skip62
+\f@nch@O@elh=\skip63
+\f@nch@O@erh=\skip64
+\f@nch@O@olh=\skip65
+\f@nch@O@orh=\skip66
+\f@nch@O@elf=\skip67
+\f@nch@O@erf=\skip68
+\f@nch@O@olf=\skip69
+\f@nch@O@orf=\skip70
 ))
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 6.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/daodac/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/daodac/.texpadtmp/projects/proj_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/daodac/.texpadtmp/projects/proj_2.aux))
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count293
+\l__pdf_internal_box=\box53
+) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/master.aux
+(/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/linear_algebra_done_right/cha_1.aux) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/lectures/lec_1.aux) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/lectures/lec_2.aux))
 \openout1 = `master.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
@@ -467,28 +349,28 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count301
+\c@section@level=\count294
 )
 LaTeX Info: Redefining \ref on input line 6.
 LaTeX Info: Redefining \pageref on input line 6.
 LaTeX Info: Redefining \nameref on input line 6.
- (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/daodac/.texpadtmp/master.out) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/daodac/.texpadtmp/master.out)
+ (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/master.out) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/master.out)
 \@outlinefile=\write3
 \openout3 = `master.out'.
 
  (/usr/local/texlive/2021/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count302
+\scratchcounter=\count295
 \scratchdimen=\dimen173
-\scratchbox=\box59
-\nofMPsegments=\count303
-\nofMParguments=\count304
-\everyMPshowfont=\toks34
-\MPscratchCnt=\count305
+\scratchbox=\box54
+\nofMPsegments=\count296
+\nofMParguments=\count297
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count298
 \MPscratchDim=\dimen174
-\MPnumerator=\count306
-\makeMPintoPDFobject=\count307
-\everyMPtoPDFconversion=\toks35
+\MPnumerator=\count299
+\makeMPintoPDFobject=\count300
+\everyMPtoPDFconversion=\toks33
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -536,64 +418,57 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/daodac/.texpadtmp/master.toc)
+) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/master.toc)
 \tf@toc=\write4
 \openout4 = `master.toc'.
 
  [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-\c@definition=\count308
-\c@theorem=\count309
+\c@definition=\count301
+\c@theorem=\count302
  [2]
-\openout2 = `projects/proj_1.aux'.
+\openout2 = `linear_algebra_done_right/cha_1.aux'.
 
- (./projects/proj_1.tex
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 5.
- (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmss.fd
-File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-Overfull \hbox (4.51598pt too wide) in paragraph at lines 7--8
-[]\T1/cmss/bx/n/12 Åtgärdscentret: \T1/cmss/m/n/12 Detta kan öpp-nas genom en meddelande-ikon längst
- []
+ (./linear_algebra_done_right/cha_1.tex) [3
 
-[3
-
-] [4] [5] [6]
-Overfull \hbox (4.51598pt too wide) in paragraph at lines 82--83
-[]\T1/cmss/bx/n/12 Åtgärdscentret: \T1/cmss/m/n/12 Detta kan öpp-nas genom en meddelande-ikon längst
- []
-
-[7] [8] [9] [10] [11]
-Overfull \hbox (11.7503pt too wide) in paragraph at lines 194--195
- []\T1/cmss/bx/n/12 38. Hur star-tar man ak-tivitet-shanter-aren? \T1/cmss/bx/it/12 (Task Man-ager)[] \T1/cmss/m/n/12 Högerk-
- []
-
-[12]) [13] [14] [15
+] [4
 
 
 ]
-\openout2 = `projects/proj_2.aux'.
+\openout2 = `lectures/lec_1.aux'.
 
- (./projects/proj_2.tex [16
+ (./lectures/lec_1.tex
 
-] [17] [18]) [19] (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/daodac/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/daodac/.texpadtmp/projects/proj_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/daodac/.texpadtmp/projects/proj_2.aux))
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 1.
+
+[5
+
+]) [6]
+\openout2 = `lectures/lec_2.aux'.
+
+ (./lectures/lec_2.tex) [7
+
+
+
+] (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/master.aux (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/linear_algebra_done_right/cha_1.aux) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/lectures/lec_1.aux) (/Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/lectures/lec_2.aux))
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: EC8D25D2031ADBD1526BB714BB91BB31;630.
+(rerunfilecheck)             Checksum: 1B8747D4B1E1DE47E7CB803D688AFA63;887.
  ) 
 Here is how much of TeX's memory you used:
- 13179 strings out of 478287
- 213365 string characters out of 5846750
- 515293 words of memory out of 5000000
- 31013 multiletter control sequences out of 15000+600000
- 484648 words of font info for 68 fonts, out of 8000000 for 9000
+ 12058 strings out of 478287
+ 191282 string characters out of 5846750
+ 487490 words of memory out of 5000000
+ 30019 multiletter control sequences out of 15000+600000
+ 484305 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,12n,80p,896b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfso1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
-Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/daodac/.texpadtmp/master.pdf (19 pages, 176821 bytes).
+ 65i,12n,66p,623b,340s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfso1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
+Output written on /Users/ottomartinwall/Desktop/LaTeX/university/exampleSubject/.texpadtmp/master.pdf (7 pages, 182903 bytes).
 PDF statistics:
- 286 PDF objects out of 1000 (max. 8388607)
- 243 compressed objects within 3 object streams
- 120 named destinations out of 1000 (max. 500000)
+ 167 PDF objects out of 1000 (max. 8388607)
+ 122 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

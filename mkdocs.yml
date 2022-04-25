@@ -14,6 +14,7 @@ nav:
     - Svenska: latex/gymnasiet/svenska/markdown.md
     - Engelska 6: latex/gymnasiet/engelska6/markdown.md
     - Dator och nätverksteknik: latex/gymnasiet/daodac/markdown.md
+    - Leonora Matematik 2B: latex/gymnasiet/leonora-2b/markdown.md
 
 theme:
   logo: img/largeSigma.png
