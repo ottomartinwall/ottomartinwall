@@ -1,15 +1,18 @@
 \babel@toc {swedish}{}\relax 
-\contentsline {section}{\numberline {1}Förkunskaper (träna detta så att det sitter!)}{2}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Negativa tal}{3}{subsection.1.1}%
-\contentsline {subsection}{\numberline {1.2}Prioriteringsregler}{4}{subsection.1.2}%
-\contentsline {subsection}{\numberline {1.3}Bråk}{5}{subsection.1.3}%
-\contentsline {subsubsection}{\numberline {1.3.1}Addition av bråk}{5}{subsubsection.1.3.1}%
-\contentsline {subsubsection}{\numberline {1.3.2}Multiplikation av bråk}{6}{subsubsection.1.3.2}%
-\contentsline {subsubsection}{\numberline {1.3.3}Division av bråk}{6}{subsubsection.1.3.3}%
-\contentsline {subsection}{\numberline {1.4}Potenser}{7}{subsection.1.4}%
-\contentsline {subsection}{\numberline {1.5}Ekvationer}{8}{subsection.1.5}%
-\contentsline {paragraph}{Exempel 1}{8}{section*.2}%
-\contentsline {paragraph}{Exempel 2}{10}{section*.3}%
-\contentsline {section}{\numberline {2}Linjära modeller}{12}{section.2}%
-\contentsline {section}{\numberline {3}Ickelinjära modeller}{13}{section.3}%
-\contentsline {section}{\numberline {4}Statistik}{14}{section.4}%
+\contentsline {section}{\numberline {1}Förkunskaper (träna detta så att det sitter!)}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Negativa tal}{4}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Prioriteringsregler}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Bråk}{6}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Addition av bråk}{6}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Multiplikation av bråk}{7}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Division av bråk}{7}{subsubsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.4}Potenser}{8}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}Potensregler}{9}{subsubsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.5}Ekvationer}{10}{subsection.1.5}%
+\contentsline {paragraph}{Exempel 1}{10}{section*.2}%
+\contentsline {paragraph}{Exempel 2}{12}{section*.3}%
+\contentsline {section}{\numberline {2}Linjära modeller}{14}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Koordinatsystem}{15}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Funktion}{15}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Ickelinjära modeller}{17}{section.3}%
+\contentsline {section}{\numberline {4}Statistik}{18}{section.4}%

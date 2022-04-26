@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  26 APR 2022 10:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  26 APR 2022 11:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -547,39 +547,58 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.toc)
+) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.toc [1
+
+{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}])
 \tf@toc=\write4
 \openout4 = `master.toc'.
 
- [1
 
-{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package fancyhdr Warning: \footskip is too small (14.5pt): 
+(fancyhdr)                Make it at least 14.51385pt, for example:
+(fancyhdr)                \setlength{\footskip}{14.51385pt}.
+
+[2]
 \c@definition=\count310
 \c@theorem=\count311
- [2]
+ [3]
 \openout2 = `chapters/cha_1.aux'.
 
- (./chapters/cha_1.tex [3
+ (./chapters/cha_1.tex [4
 
-] [4] [5] [6] [7]
-Overfull \hbox (19.85304pt too wide) in paragraph at lines 123--124
+] [5] [6] [7] [8] [9]
+Overfull \hbox (19.85304pt too wide) in paragraph at lines 128--129
 []\T1/cmss/m/n/12 Nu kol-lar vi igen. Ad-di-tion/subtraktion hjäl-per ing-et, men mul-ti-pli-ka-tion/division
  []
 
-[8] [9] [10]) [11] [12
+[10] [11] [12]) [13] [14
 
 
 ]
 \openout2 = `chapters/cha_2.aux'.
 
- (./chapters/cha_2.tex) [13
+ (./chapters/cha_2.tex
+<img/1.png, id=215, 470.75874pt x 298.11375pt>
+File: img/1.png Graphic file (type png)
+<use img/1.png>
+Package pdftex.def Info: img/1.png  used on input line 10.
+(pdftex.def)             Requested size: 364.1953pt x 230.63092pt.
+ [15
 
+ <./img/1.png>]
+<img/2.png, id=223, 934.49126pt x 445.665pt>
+File: img/2.png Graphic file (type png)
+<use img/2.png>
+Package pdftex.def Info: img/2.png  used on input line 24.
+(pdftex.def)             Requested size: 364.1953pt x 173.68623pt.
+) [16 <./img/2.png>] [17
 
 
 ]
 \openout2 = `chapters/cha_3.aux'.
 
- (./chapters/cha_3.tex) [14
+ (./chapters/cha_3.tex) [18
 
 
 
@@ -588,16 +607,18 @@ Overfull \hbox (19.85304pt too wide) in paragraph at lines 123--124
 
  (./chapters/cha_3.tex) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_2.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_3.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_3.aux))
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 4AE7184A6D13C4685750818D68281CF4;1724.
+(rerunfilecheck)             Checksum: B0CDF11639FBD38F4E5FA545EAD7728B;2083.
  ) 
 Here is how much of TeX's memory you used:
- 14133 strings out of 478287
- 231142 string characters out of 5846750
- 548392 words of memory out of 5000000
- 31986 multiletter control sequences out of 15000+600000
- 486417 words of font info for 72 fonts, out of 8000000 for 9000
+ 14165 strings out of 478287
+ 231535 string characters out of 5846750
+ 548445 words of memory out of 5000000
+ 32003 multiletter control sequences out of 15000+600000
+ 487233 words of font info for 73 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,12n,80p,623b,359s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 73i,12n,80p,623b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.5} has been referenced but does not exist, replaced by a fixed one
+
 pdfTeX warning (dest): name{Hfootnote.4} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.3} has been referenced but does not exist, replaced by a fixed one
@@ -606,11 +627,11 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
-{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
-Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.pdf (14 pages, 224562 bytes).
+{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
+Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.pdf (18 pages, 541870 bytes).
 PDF statistics:
- 296 PDF objects out of 1000 (max. 8388607)
- 239 compressed objects within 3 object streams
- 73 named destinations out of 1000 (max. 500000)
- 97 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 343 PDF objects out of 1000 (max. 8388607)
+ 276 compressed objects within 3 object streams
+ 83 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
