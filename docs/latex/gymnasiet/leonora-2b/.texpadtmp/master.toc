@@ -14,8 +14,8 @@
 \contentsline {subsection}{\numberline {1.6}Pythagoras Sats}{14}{subsection.1.6}%
 \contentsline {section}{\numberline {2}Linjära modeller}{15}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Koordinatsystem}{16}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Avståndsformeln}{16}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Formeln}{18}{subsubsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.2}Funktion}{19}{subsection.2.2}%
-\contentsline {section}{\numberline {3}Ickelinjära modeller}{21}{section.3}%
-\contentsline {section}{\numberline {4}Statistik}{22}{section.4}%
+\contentsline {subsubsection}{\numberline {2.1.1}Avståndsformeln}{17}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Mittpunktsformeln}{20}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Funktion}{21}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Ickelinjära modeller}{22}{section.3}%
+\contentsline {section}{\numberline {4}Statistik}{23}{section.4}%
