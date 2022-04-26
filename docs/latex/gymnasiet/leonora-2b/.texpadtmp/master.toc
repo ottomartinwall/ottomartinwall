@@ -17,5 +17,6 @@
 \contentsline {subsubsection}{\numberline {2.1.1}Avståndsformeln}{17}{subsubsection.2.1.1}%
 \contentsline {subsubsection}{\numberline {2.1.2}Mittpunktsformeln}{20}{subsubsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.2}Funktion}{21}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Räta linjens ekvation}{21}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Ickelinjära modeller}{22}{section.3}%
 \contentsline {section}{\numberline {4}Statistik}{23}{section.4}%
