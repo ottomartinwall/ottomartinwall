@@ -1,5 +1,15 @@
-\contentsline {section}{\numberline {1}Linear Algebra Done Right}{2}{section.1}%
-\contentsline {subsection}{\numberline {1.1}Vector Spaces}{3}{subsection.1.1}%
-\contentsline {section}{\numberline {2}Lectures}{4}{section.2}%
-\contentsline {subsubsection}{\numberline {2.0.1}Lecture 1: Area of the Sphere}{5}{subsubsection.2.0.1}%
-\contentsline {subsubsection}{\numberline {2.0.2}Lecture 2: Title of This Other Lecture}{7}{subsubsection.2.0.2}%
+\babel@toc {swedish}{}\relax 
+\contentsline {section}{\numberline {1}Förkunskaper (träna detta så att det sitter!)}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Negativa tal}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Prioriteringsregler}{4}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Bråk}{5}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Addition av bråk}{5}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Multiplikation av bråk}{6}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}Division av bråk}{6}{subsubsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.4}Potenser}{7}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Ekvationer}{8}{subsection.1.5}%
+\contentsline {paragraph}{Exempel 1}{8}{section*.2}%
+\contentsline {paragraph}{Exempel 2}{10}{section*.3}%
+\contentsline {section}{\numberline {2}Linjära modeller}{12}{section.2}%
+\contentsline {section}{\numberline {3}Ickelinjära modeller}{13}{section.3}%
+\contentsline {section}{\numberline {4}Statistik}{14}{section.4}%
