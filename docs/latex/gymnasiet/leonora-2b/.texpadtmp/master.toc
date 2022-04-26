@@ -19,7 +19,7 @@
 \contentsline {subsection}{\numberline {2.2}Funktion}{21}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Räta linjens ekvation}{22}{subsection.2.3}%
 \contentsline {subsection}{\numberline {2.4}Ekvationssystem}{23}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Substitutionsmetoden}{23}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.1}Substitutionsmetoden}{24}{subsubsection.2.4.1}%
 \contentsline {subsubsection}{\numberline {2.4.2}Additionsmetoden}{27}{subsubsection.2.4.2}%
 \contentsline {section}{\numberline {3}Ickelinjära modeller}{29}{section.3}%
 \contentsline {section}{\numberline {4}Statistik}{30}{section.4}%

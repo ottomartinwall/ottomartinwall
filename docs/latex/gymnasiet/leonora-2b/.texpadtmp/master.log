@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  26 APR 2022 14:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  26 APR 2022 17:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -579,7 +579,7 @@ Overfull \hbox (19.85304pt too wide) in paragraph at lines 128--129
 \openout2 = `chapters/cha_2.aux'.
 
  (./chapters/cha_2.tex
-<img/1.png, id=242, 470.75874pt x 298.11375pt>
+<img/1.png, id=257, 470.75874pt x 298.11375pt>
 File: img/1.png Graphic file (type png)
 <use img/1.png>
 Package pdftex.def Info: img/1.png  used on input line 10.
@@ -587,36 +587,28 @@ Package pdftex.def Info: img/1.png  used on input line 10.
  [16
 
  <./img/1.png>]
-<img/3.png, id=251, 722.7pt x 320.19624pt>
+<img/3.png, id=266, 722.7pt x 320.19624pt>
 File: img/3.png Graphic file (type png)
 <use img/3.png>
 Package pdftex.def Info: img/3.png  used on input line 17.
 (pdftex.def)             Requested size: 364.1953pt x 161.35825pt.
  [17 <./img/3.png>] [18] [19]
-<img/4.png, id=284, 722.7pt x 320.19624pt>
+<img/4.png, id=299, 722.7pt x 320.19624pt>
 File: img/4.png Graphic file (type png)
 <use img/4.png>
 Package pdftex.def Info: img/4.png  used on input line 67.
 (pdftex.def)             Requested size: 364.1953pt x 161.35825pt.
  [20 <./img/4.png>]
-<img/2.png, id=292, 934.49126pt x 445.665pt>
+<img/2.png, id=307, 934.49126pt x 445.665pt>
 File: img/2.png Graphic file (type png)
 <use img/2.png>
 Package pdftex.def Info: img/2.png  used on input line 88.
 (pdftex.def)             Requested size: 364.1953pt x 173.68623pt.
  [21 <./img/2.png>] [22]
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 131.
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 132.
  (/usr/local/texlive/2021/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-) [23] [24] [25] [26]
-
-LaTeX Warning: Reference `Substitutionsmetoden' on page 27 undefined on input line 197.
-
-[27]
-
-LaTeX Warning: Reference `Substitutionsmetoden' on page 28 undefined on input line 251.
-
-) [28] [29
+) [23] [24] [25] [26] [27]) [28] [29
 
 
 ]
@@ -630,26 +622,14 @@ LaTeX Warning: Reference `Substitutionsmetoden' on page 28 undefined on input li
 \openout2 = `chapters/cha_3.aux'.
 
  (./chapters/cha_3.tex) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_2.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_3.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_3.aux))
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package rerunfilecheck Warning: File `master.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `master.out':
-(rerunfilecheck)             Before: AC00C04484A3780F0CE15C9E8C8FD67A;2690
-(rerunfilecheck)             After:  08E176BFC622DAD8A0FC24B761C70DE8;3139.
+Package rerunfilecheck Info: File `master.out' has not changed.
+(rerunfilecheck)             Checksum: 08E176BFC622DAD8A0FC24B761C70DE8;3139.
  ) 
 Here is how much of TeX's memory you used:
- 14272 strings out of 478287
- 233240 string characters out of 5846750
- 549494 words of memory out of 5000000
- 32038 multiletter control sequences out of 15000+600000
+ 14277 strings out of 478287
+ 233315 string characters out of 5846750
+ 549599 words of memory out of 5000000
+ 32042 multiletter control sequences out of 15000+600000
  488348 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,14n,80p,623b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -668,10 +648,10 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1728.pfb>
-Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.pdf (30 pages, 628167 bytes).
+Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.pdf (30 pages, 629509 bytes).
 PDF statistics:
- 494 PDF objects out of 1000 (max. 8388607)
- 406 compressed objects within 5 object streams
- 148 named destinations out of 1000 (max. 500000)
- 173 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 510 PDF objects out of 1000 (max. 8388607)
+ 422 compressed objects within 5 object streams
+ 149 named destinations out of 1000 (max. 500000)
+ 197 words of extra memory for PDF output out of 10000 (max. 10000000)
 
