@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  3 MAY 2022 20:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  3 MAY 2022 22:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -571,10 +571,10 @@ Package mdframed Info: mdframed detected package amsthm
  changed the theorem header of amsthm
 (mdframed)              on input line 197.
  [14] [15] [16]
-<img/5.png, id=325, 944.52875pt x 485.815pt>
+<img/5.png, id=330, 944.52875pt x 485.815pt>
 File: img/5.png Graphic file (type png)
 <use img/5.png>
-Package pdftex.def Info: img/5.png  used on input line 270.
+Package pdftex.def Info: img/5.png  used on input line 275.
 (pdftex.def)             Requested size: 364.1953pt x 187.32475pt.
 ) [17 <./img/5.png>] [18
 
@@ -583,7 +583,7 @@ Package pdftex.def Info: img/5.png  used on input line 270.
 \openout2 = `chapters/cha_2.aux'.
 
  (./chapters/cha_2.tex
-<img/1.png, id=337, 470.75874pt x 298.11375pt>
+<img/1.png, id=342, 470.75874pt x 298.11375pt>
 File: img/1.png Graphic file (type png)
 <use img/1.png>
 Package pdftex.def Info: img/1.png  used on input line 10.
@@ -591,19 +591,19 @@ Package pdftex.def Info: img/1.png  used on input line 10.
  [19
 
  <./img/1.png>]
-<img/3.png, id=346, 722.7pt x 320.19624pt>
+<img/3.png, id=351, 722.7pt x 320.19624pt>
 File: img/3.png Graphic file (type png)
 <use img/3.png>
 Package pdftex.def Info: img/3.png  used on input line 17.
 (pdftex.def)             Requested size: 364.1953pt x 161.35825pt.
  [20 <./img/3.png>] [21] [22]
-<img/4.png, id=376, 722.7pt x 320.19624pt>
+<img/4.png, id=381, 722.7pt x 320.19624pt>
 File: img/4.png Graphic file (type png)
 <use img/4.png>
 Package pdftex.def Info: img/4.png  used on input line 67.
 (pdftex.def)             Requested size: 364.1953pt x 161.35825pt.
  [23 <./img/4.png>]
-<img/2.png, id=384, 934.49126pt x 445.665pt>
+<img/2.png, id=389, 934.49126pt x 445.665pt>
 File: img/2.png Graphic file (type png)
 <use img/2.png>
 Package pdftex.def Info: img/2.png  used on input line 88.
@@ -635,21 +635,48 @@ Package mdframed Info: mdframed detected package amsthm
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
 (mdframed)              on input line 70.
- [36] [37] [38]) [39] [40
+ [36] [37] [38]
+Package mdframed Info: mdframed detected package amsthm 
+ changed the theorem header of amsthm
+(mdframed)              on input line 125.
+
+
+LaTeX Warning: Reference `lg2' on page 39 undefined on input line 134.
+
+[39]
+
+LaTeX Warning: Reference `lg3' on page 40 undefined on input line 149.
+
+
+LaTeX Warning: Reference `lg4' on page 40 undefined on input line 153.
+
+) [40] [41
 
 
 ]
 \openout2 = `chapters/cha_4.aux'.
 
  (./chapters/cha_4.tex) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_2.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_3.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_4.aux))
-Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: 5D0CE5501C5FC5152DEF7114B0567CBD;4439.
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `master.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `master.out':
+(rerunfilecheck)             Before: 389F2693FCCBF3E6D956E9C0532E3481;4666
+(rerunfilecheck)             After:  5D0CE5501C5FC5152DEF7114B0567CBD;4439.
  ) 
 Here is how much of TeX's memory you used:
- 14420 strings out of 478287
- 236227 string characters out of 5846750
+ 14434 strings out of 478287
+ 236396 string characters out of 5846750
  550213 words of memory out of 5000000
- 32109 multiletter control sequences out of 15000+600000
+ 32113 multiletter control sequences out of 15000+600000
  489989 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,14n,80p,621b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -677,12 +704,14 @@ pdfTeX warning (dest): name{Hfootnote.2} has been referenced but does not exist,
 
 pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist, replaced by a fixed one
 
+pdfTeX warning (dest): name{subsubsection.3.4.2} has been referenced but does not exist, replaced by a fixed one
+
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/t
 ype1/public/cm-super/sfsx1728.pfb>
-Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.pdf (40 pages, 746233 bytes).
+Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.pdf (41 pages, 749497 bytes).
 PDF statistics:
- 698 PDF objects out of 1000 (max. 8388607)
- 589 compressed objects within 6 object streams
- 221 named destinations out of 1000 (max. 500000)
- 274 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 718 PDF objects out of 1000 (max. 8388607)
+ 607 compressed objects within 7 object streams
+ 231 named destinations out of 1000 (max. 500000)
+ 282 words of extra memory for PDF output out of 10000 (max. 10000000)
 

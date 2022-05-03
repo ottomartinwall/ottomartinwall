@@ -31,4 +31,4 @@
 \contentsline {subsubsection}{\numberline {3.3.1}Exponentialmodeller}{36}{subsubsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.4}Logaritm}{38}{subsection.3.4}%
 \contentsline {subsubsection}{\numberline {3.4.1}Logaritmlagar}{39}{subsubsection.3.4.1}%
-\contentsline {section}{\numberline {4}Statistik}{40}{section.4}%
+\contentsline {section}{\numberline {4}Statistik}{41}{section.4}%
