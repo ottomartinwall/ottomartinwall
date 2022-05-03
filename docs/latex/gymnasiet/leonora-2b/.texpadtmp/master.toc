@@ -12,16 +12,22 @@
 \contentsline {paragraph}{Exempel 1}{10}{section*.2}%
 \contentsline {paragraph}{Exempel 2}{12}{section*.3}%
 \contentsline {subsection}{\numberline {1.6}Pythagoras Sats}{14}{subsection.1.6}%
-\contentsline {section}{\numberline {2}Linjära modeller}{15}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Koordinatsystem}{16}{subsection.2.1}%
-\contentsline {subsubsection}{\numberline {2.1.1}Avståndsformeln}{17}{subsubsection.2.1.1}%
-\contentsline {subsubsection}{\numberline {2.1.2}Mittpunktsformeln}{20}{subsubsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.2}Funktion}{21}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Räta linjens ekvation}{22}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Ekvationssystem}{23}{subsection.2.4}%
-\contentsline {subsubsection}{\numberline {2.4.1}Substitutionsmetoden}{24}{subsubsection.2.4.1}%
-\contentsline {subsubsection}{\numberline {2.4.2}Additionsmetoden}{27}{subsubsection.2.4.2}%
-\contentsline {section}{\numberline {3}Ickelinjära modeller}{29}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Konjugat och kvadreringsreglerna}{30}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Polynom}{32}{subsection.3.2}%
-\contentsline {section}{\numberline {4}Statistik}{33}{section.4}%
+\contentsline {subsection}{\numberline {1.7}Inversfunktion (viktigt till logaritmer)}{15}{subsection.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}Exempel}{15}{subsubsection.1.7.1}%
+\contentsline {section}{\numberline {2}Linjära modeller}{18}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Koordinatsystem}{19}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Avståndsformeln}{20}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Mittpunktsformeln}{23}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Funktion}{24}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Räta linjens ekvation}{25}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Ekvationssystem}{26}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Substitutionsmetoden}{27}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Additionsmetoden}{30}{subsubsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.5}Exponentialfunktion}{31}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Ickelinjära modeller}{32}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Konjugat och kvadreringsreglerna}{33}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Polynom}{35}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Exponentialfunktion}{36}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Exponentialmodeller}{36}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.4}Logaritm}{38}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Statistik}{39}{section.4}%
