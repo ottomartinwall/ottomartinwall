@@ -23,7 +23,6 @@
 \contentsline {subsection}{\numberline {2.4}Ekvationssystem}{26}{subsection.2.4}%
 \contentsline {subsubsection}{\numberline {2.4.1}Substitutionsmetoden}{27}{subsubsection.2.4.1}%
 \contentsline {subsubsection}{\numberline {2.4.2}Additionsmetoden}{30}{subsubsection.2.4.2}%
-\contentsline {subsection}{\numberline {2.5}Exponentialfunktion}{31}{subsection.2.5}%
 \contentsline {section}{\numberline {3}Ickelinjära modeller}{32}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Konjugat och kvadreringsreglerna}{33}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Polynom}{35}{subsection.3.2}%
