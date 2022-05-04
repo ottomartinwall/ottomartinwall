@@ -27,8 +27,9 @@
 \contentsline {subsection}{\numberline {3.1}Konjugat och kvadreringsreglerna}{33}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Polynom}{35}{subsection.3.2}%
 \contentsline {subsubsection}{\numberline {3.2.1}Andragradsekvationer/funktioner}{36}{subsubsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.3}Exponentialfunktion}{38}{subsection.3.3}%
-\contentsline {subsubsection}{\numberline {3.3.1}Exponentialmodeller}{38}{subsubsection.3.3.1}%
-\contentsline {subsection}{\numberline {3.4}Logaritm}{40}{subsection.3.4}%
-\contentsline {subsubsection}{\numberline {3.4.1}Logaritmlagar}{41}{subsubsection.3.4.1}%
-\contentsline {section}{\numberline {4}Statistik}{43}{section.4}%
+\contentsline {subsection}{\numberline {3.3}Exponentialfunktion}{39}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Exponentialmodeller}{39}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.4}Logaritm}{41}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Logaritmlagar}{42}{subsubsection.3.4.1}%
+\contentsline {section}{\numberline {4}Geometri}{45}{section.4}%
+\contentsline {section}{\numberline {5}Statistik}{46}{section.5}%
