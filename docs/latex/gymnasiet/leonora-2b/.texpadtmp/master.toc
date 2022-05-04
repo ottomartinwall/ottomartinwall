@@ -26,7 +26,7 @@
 \contentsline {section}{\numberline {3}Ickelinjära modeller}{32}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Konjugat och kvadreringsreglerna}{33}{subsection.3.1}%
 \contentsline {subsection}{\numberline {3.2}Polynom}{35}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}pq-formeln}{36}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1}Andragradsekvationer/funktioner}{36}{subsubsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.3}Exponentialfunktion}{38}{subsection.3.3}%
 \contentsline {subsubsection}{\numberline {3.3.1}Exponentialmodeller}{38}{subsubsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.4}Logaritm}{40}{subsection.3.4}%

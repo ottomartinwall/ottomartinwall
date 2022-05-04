@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  4 MAY 2022 12:42
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.25)  4 MAY 2022 12:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -630,19 +630,19 @@ Package mdframed Info: mdframed detected package amsthm
 ] [34]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 48.
+(mdframed)              on input line 49.
  [35]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 67.
+(mdframed)              on input line 74.
  [36] [37]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 105.
+(mdframed)              on input line 112.
  [38] [39] [40]
 Package mdframed Info: mdframed detected package amsthm 
  changed the theorem header of amsthm
-(mdframed)              on input line 160.
+(mdframed)              on input line 167.
  [41]) [42] [43
 
 
@@ -651,16 +651,18 @@ Package mdframed Info: mdframed detected package amsthm
 
  (./chapters/cha_4.tex) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.aux (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_1.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_2.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_3.aux) (/Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/chapters/cha_4.aux))
 Package rerunfilecheck Info: File `master.out' has not changed.
-(rerunfilecheck)             Checksum: C6BBF4BCBADAC7FABD8D7ECBC8FD7BA7;4497.
+(rerunfilecheck)             Checksum: E1EC47C5437EAD0A8E3D7CBD709A5C55;4602.
  ) 
 Here is how much of TeX's memory you used:
- 14444 strings out of 478287
- 236522 string characters out of 5846750
- 552369 words of memory out of 5000000
- 32114 multiletter control sequences out of 15000+600000
+ 14447 strings out of 478287
+ 236557 string characters out of 5846750
+ 550407 words of memory out of 5000000
+ 32115 multiletter control sequences out of 15000+600000
  489989 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  73i,14n,80p,621b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{Hfootnote.13} has been referenced but does not exist, replaced by a fixed one
+
 pdfTeX warning (dest): name{Hfootnote.12} has been referenced but does not exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{Hfootnote.11} has been referenced but does not exist, replaced by a fixed one
@@ -687,10 +689,10 @@ pdfTeX warning (dest): name{Hfootnote.1} has been referenced but does not exist,
 
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsi1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0700.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss0800.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfss2074.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1200.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb></usr/local/texlive/2021/texmf-dist/fonts/t
 ype1/public/cm-super/sfsx1728.pfb>
-Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.pdf (43 pages, 753629 bytes).
+Output written on /Users/ottomartinwall/ottomartinwall/docs/latex/gymnasiet/leonora-2b/.texpadtmp/master.pdf (43 pages, 754811 bytes).
 PDF statistics:
- 735 PDF objects out of 1000 (max. 8388607)
- 622 compressed objects within 7 object streams
- 240 named destinations out of 1000 (max. 500000)
+ 740 PDF objects out of 1000 (max. 8388607)
+ 627 compressed objects within 7 object streams
+ 242 named destinations out of 1000 (max. 500000)
  274 words of extra memory for PDF output out of 10000 (max. 10000000)
 
