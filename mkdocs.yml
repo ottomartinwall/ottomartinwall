@@ -21,9 +21,3 @@ theme:
   name: material
   palette: 
     - primary: blue grey
-
-extra:
-  generator: false
-  analytics:
-    provider: google
-    property: G-07WBJNNWSC
