@@ -15,13 +15,3 @@ This website is for hosting and sharing my notes and projects. Here under are so
     <source src="./img/doublePendulum2.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
-
-<!--
-## Examples of notes from Single Variable Calculus:
-
----
-
-<img src='./img/noteExample_1.jpg'>
-
-<img src='./img/noteExample_2.jpg'>
---!>
