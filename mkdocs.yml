@@ -7,8 +7,7 @@ nav:
   - Home: index.md
   - 'University':
     - '1st Semester':
-      - Single Variable Calculus: latex/university/singleVariableCalculus/markdown.md
-      - Linear Algebra: latex/university/linearAlgebra/markdown.md
+      - Analysis: latex/university/analysis/markdown.md
   - 'Gymnasiet':
     - MatteFörklaringar: latex/gymnasiet/matematik/markdown.md
     - Svenska: latex/gymnasiet/svenska/markdown.md

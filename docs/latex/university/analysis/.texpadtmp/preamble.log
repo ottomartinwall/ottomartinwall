@@ -1,0 +1,871 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdftex 2022.1.25)  21 MAY 2022 17:06
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**preamble.tex
+(./preamble.tex
+./preamble.tex:1: Undefined control sequence.
+l.1 \usepackage
+               [utf8]{inputenc}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:2: Undefined control sequence.
+l.2 \usepackage
+               [T1]{fontenc}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:3: Undefined control sequence.
+l.3 \usepackage
+               {textcomp}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:5: Undefined control sequence.
+l.5 \usepackage
+               {url}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:15: Undefined control sequence.
+l.15 \usepackage
+                {graphicx}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:16: Undefined control sequence.
+l.16 \usepackage
+                {float}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:17: Undefined control sequence.
+l.17 \usepackage
+                [usenames,dvipsnames]{xcolor}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:21: Undefined control sequence.
+l.21 \usepackage
+                {amsmath, amsfonts, mathtools, amsthm, amssymb}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:22: Undefined control sequence.
+l.22 \usepackage
+                {mathrsfs}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:23: Undefined control sequence.
+l.23 \usepackage
+                {cancel}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:25: Undefined control sequence.
+l.25 \newcommand
+                \N{\ensuremath{\mathbb{N}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:25: Undefined control sequence.
+l.25 \newcommand\N
+                  {\ensuremath{\mathbb{N}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:25: Undefined control sequence.
+l.25 \newcommand\N{\ensuremath
+                              {\mathbb{N}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:25: Undefined control sequence.
+l.25 \newcommand\N{\ensuremath{\mathbb
+                                      {N}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:26: Undefined control sequence.
+l.26 \newcommand
+                \R{\ensuremath{\mathbb{R}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:26: Undefined control sequence.
+l.26 \newcommand\R
+                  {\ensuremath{\mathbb{R}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:26: Undefined control sequence.
+l.26 \newcommand\R{\ensuremath
+                              {\mathbb{R}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:26: Undefined control sequence.
+l.26 \newcommand\R{\ensuremath{\mathbb
+                                      {R}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:27: Undefined control sequence.
+l.27 \newcommand
+                \Z{\ensuremath{\mathbb{Z}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:27: Undefined control sequence.
+l.27 \newcommand\Z
+                  {\ensuremath{\mathbb{Z}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:27: Undefined control sequence.
+l.27 \newcommand\Z{\ensuremath
+                              {\mathbb{Z}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:27: Undefined control sequence.
+l.27 \newcommand\Z{\ensuremath{\mathbb
+                                      {Z}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:28: Undefined control sequence.
+l.28 \renewcommand
+                  \O{\ensuremath{\emptyset}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:28: Undefined control sequence.
+l.28 \renewcommand\O{\ensuremath
+                                {\emptyset}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:28: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \emptyset 
+l.28 \renewcommand\O{\ensuremath{\emptyset
+                                          }}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./preamble.tex:28: Extra }, or forgotten $.
+l.28 \renewcommand\O{\ensuremath{\emptyset}
+                                           }
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./preamble.tex:28: Extra }, or forgotten $.
+l.28 \renewcommand\O{\ensuremath{\emptyset}}
+                                            
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+./preamble.tex:29: Undefined control sequence.
+l.29 \newcommand
+                \Q{\ensuremath{\mathbb{Q}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:29: Undefined control sequence.
+l.29 \newcommand\Q
+                  {\ensuremath{\mathbb{Q}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:29: Undefined control sequence.
+l.29 \newcommand\Q{\ensuremath
+                              {\mathbb{Q}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:29: Undefined control sequence.
+l.29 \newcommand\Q{\ensuremath{\mathbb
+                                      {Q}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:30: Undefined control sequence.
+l.30 \newcommand
+                \C{\ensuremath{\mathbb{C}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:30: Undefined control sequence.
+l.30 \newcommand\C
+                  {\ensuremath{\mathbb{C}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:30: Undefined control sequence.
+l.30 \newcommand\C{\ensuremath
+                              {\mathbb{C}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:30: Undefined control sequence.
+l.30 \newcommand\C{\ensuremath{\mathbb
+                                      {C}}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:35: Missing $ inserted.
+<inserted text> 
+                $
+<to be read again> 
+                   \par 
+l.35 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+./preamble.tex:37: Undefined control sequence.
+l.37 \newcommand
+                \hr{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:37: Undefined control sequence.
+l.37 \newcommand\hr
+                   {
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:38: Undefined control sequence.
+l.38     \noindent\rule
+                       [0.5ex]{\linewidth}{0.5pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:38: Undefined control sequence.
+l.38     \noindent\rule[0.5ex]{\linewidth
+                                         }{0.5pt}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:41: Undefined control sequence.
+l.41 \usepackage
+                {tikz}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:42: Undefined control sequence.
+l.42 \usepackage
+                {tikz-cd}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:45: Undefined control sequence.
+l.45 \usepackage
+                {thmtools}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:46: Undefined control sequence.
+l.46 \usepackage
+                [framemethod=TikZ]{mdframed}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:47: Undefined control sequence.
+l.47 \mdfsetup
+              {skipabove=1em,skipbelow=0em, innertopmargin=5pt, innerbottomm...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:49: Undefined control sequence.
+l.49 \theoremstyle
+                  {definition}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:51: Undefined control sequence.
+l.51 \makeatletter
+                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:53: Undefined control sequence.
+l.53 \declaretheoremstyle
+                         [headfont=\bfseries\sffamily, bodyfont=\normalfont,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:53: Undefined control sequence.
+l.53 \declaretheoremstyle[headfont=\bfseries
+                                            \sffamily, bodyfont=\normalfont,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:53: Undefined control sequence.
+l.53 ...retheoremstyle[headfont=\bfseries\sffamily
+                                                  , bodyfont=\normalfont, md...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:53: Undefined control sequence.
+l.53 ...t=\bfseries\sffamily, bodyfont=\normalfont
+                                                  , mdframed={ nobreak } ]{t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:54: Undefined control sequence.
+l.54 \declaretheoremstyle
+                         [headfont=\bfseries\sffamily, bodyfont=\normalfont,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:54: Undefined control sequence.
+l.54 \declaretheoremstyle[headfont=\bfseries
+                                            \sffamily, bodyfont=\normalfont,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:54: Undefined control sequence.
+l.54 ...retheoremstyle[headfont=\bfseries\sffamily
+                                                  , bodyfont=\normalfont, md...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:54: Undefined control sequence.
+l.54 ...t=\bfseries\sffamily, bodyfont=\normalfont
+                                                  , mdframed={ nobreak } ]{t...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:55: Undefined control sequence.
+l.55 \declaretheoremstyle
+                         [headfont=\bfseries\sffamily, bodyfont=\normalfont]...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:55: Undefined control sequence.
+l.55 \declaretheoremstyle[headfont=\bfseries
+                                            \sffamily, bodyfont=\normalfont]...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:55: Undefined control sequence.
+l.55 ...retheoremstyle[headfont=\bfseries\sffamily
+                                                  , bodyfont=\normalfont]{th...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:55: Undefined control sequence.
+l.55 ...t=\bfseries\sffamily, bodyfont=\normalfont
+                                                  ]{thmbluebox}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:56: Undefined control sequence.
+l.56 \declaretheoremstyle
+                         [headfont=\bfseries\sffamily, bodyfont=\normalfont]...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:56: Undefined control sequence.
+l.56 \declaretheoremstyle[headfont=\bfseries
+                                            \sffamily, bodyfont=\normalfont]...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:56: Undefined control sequence.
+l.56 ...retheoremstyle[headfont=\bfseries\sffamily
+                                                  , bodyfont=\normalfont]{th...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:56: Undefined control sequence.
+l.56 ...t=\bfseries\sffamily, bodyfont=\normalfont
+                                                  ]{thmblueline}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:57: Undefined control sequence.
+l.57 \declaretheoremstyle
+                         [headfont=\bfseries\sffamily, bodyfont=\normalfont,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:57: Undefined control sequence.
+l.57 \declaretheoremstyle[headfont=\bfseries
+                                            \sffamily, bodyfont=\normalfont,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:57: Undefined control sequence.
+l.57 ...retheoremstyle[headfont=\bfseries\sffamily
+                                                  , bodyfont=\normalfont, nu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:57: Undefined control sequence.
+l.57 ...t=\bfseries\sffamily, bodyfont=\normalfont
+                                                  , numbered=no, mdframed={ ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:57: Undefined control sequence.
+l.57 ...false, bottomline=false, }, qed=\qedsymbol
+                                                   ]{thmproofbox}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:58: Undefined control sequence.
+l.58 \declaretheoremstyle
+                         [headfont=\bfseries\sffamily, bodyfont=\normalfont,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:58: Undefined control sequence.
+l.58 \declaretheoremstyle[headfont=\bfseries
+                                            \sffamily, bodyfont=\normalfont,...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:58: Undefined control sequence.
+l.58 ...retheoremstyle[headfont=\bfseries\sffamily
+                                                  , bodyfont=\normalfont, nu...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:58: Undefined control sequence.
+l.58 ...t=\bfseries\sffamily, bodyfont=\normalfont
+                                                  , numbered=no, mdframed={ ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (4.30183pt too wide) in paragraph at lines 53--59
+\tenrm break  ]thm-red-box [head-font=, body-font=]thmbluebox [head-font=, body-font=]thmblueline [head-font=, body-|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm b
+.\tenrm r
+.\tenrm e
+.\tenrm a
+.\tenrm k
+.etc.
+
+
+Overfull \hbox (2.13509pt too wide) in paragraph at lines 53--59
+\tenrm [head-font=, body-font=, num-bered=no, md-framed= no-break, right-line=false, topline=false, bot-tom-line=false|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm [
+.\tenrm h
+.\tenrm e
+.\tenrm a
+.\tenrm d
+.etc.
+
+./preamble.tex:61: Undefined control sequence.
+l.61 \declaretheorem
+                    [numberwithin=chapter, style=thmgreenbox, name=Definitio...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:62: Undefined control sequence.
+l.62 \declaretheorem
+                    [sibling=definition, style=thmredbox, name=Corollary]{co...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:63: Undefined control sequence.
+l.63 \declaretheorem
+                    [sibling=definition, style=thmredbox, name=Proposition]{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:64: Undefined control sequence.
+l.64 \declaretheorem
+                    [sibling=definition, style=thmredbox, name=Theorem]{theo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:65: Undefined control sequence.
+l.65 \declaretheorem
+                    [sibling=definition, style=thmredbox, name=Lemma]{lemma}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (32.99615pt too wide) in paragraph at lines 61--66
+[]\tenrm [numberwithin=chapter, style=thmgreenbox, name=Definition]definition [sib-ling=definition, style=thmredbox,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm n
+.\kern-0.27779
+.\tenrm u
+.etc.
+
+
+Overfull \hbox (0.69064pt too wide) in paragraph at lines 61--66
+\tenrm name=Corollary]corollary [sib-ling=definition, style=thmredbox, name=Proposition]prop [sib-ling=definition,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm n
+.\tenrm a
+.\tenrm m
+.\tenrm e
+.\tenrm =
+.etc.
+
+./preamble.tex:69: Undefined control sequence.
+l.69 \declaretheorem
+                    [numbered=no, style=thmexplanationbox, name=Proof]{expla...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:70: Undefined control sequence.
+l.70 \declaretheorem
+                    [numbered=no, style=thmproofbox, name=Proof]{replacement...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:71: Undefined control sequence.
+l.71 \declaretheorem
+                    [style=thmbluebox,  numbered=no, name=Exercise]{ex}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:72: Undefined control sequence.
+l.72 \declaretheorem
+                    [style=thmbluebox,  numbered=no, name=Example]{eg}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:73: Undefined control sequence.
+l.73 \declaretheorem
+                    [style=thmblueline, numbered=no, name=Remark]{remark}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:74: Undefined control sequence.
+l.74 \declaretheorem
+                    [style=thmblueline, numbered=no, name=Note]{note}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (5.10732pt too wide) in paragraph at lines 69--75
+[]\tenrm [numbered=no, style=thmexplanationbox, name=Proof]explanation [num-bered=no, style=thmproofbox,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm n
+.\kern-0.27779
+.\tenrm u
+.etc.
+
+
+Overfull \hbox (20.60722pt too wide) in paragraph at lines 69--75
+\tenrm num-bered=no, name=Example]eg [style=thmblueline, num-bered=no, name=Remark]remark [style=thmblueline,|
+
+\hbox(7.5+2.5)x469.75499, glue set - 1.0
+.\tenrm n
+.\kern-0.27779
+.\tenrm u
+.\discretionary replacing 2
+..\tenrm m
+..\tenrm -
+.\tenrm m
+.etc.
+
+./preamble.tex:76: Undefined control sequence.
+l.76 \renewenvironment
+                      {proof}[1][\proofname]{\begin{replacementproof}}{\end{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:76: Undefined control sequence.
+l.76 \renewenvironment{proof}[1][\proofname
+                                           ]{\begin{replacementproof}}{\end{...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+./preamble.tex:76: Undefined control sequence.
+l.76 ...ewenvironment{proof}[1][\proofname]{\begin
+                                                  {replacementproof}}{\end{r...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] )
+(\end occurred inside a group at level 3)
+
+### simple group (level 3) entered at line 76 ({)
+### simple group (level 2) entered at line 28 ({)
+### simple group (level 1) entered at line 28 ({)
+### bottom level</usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on /Users/ottomartinwall/Desktop/analysis/.texpadtmp/preamble.pdf (1 page, 35434 bytes).
+PDF statistics:
+ 20 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -7,7 +7,7 @@ make all --print-data-base --no-builtin-variables --no-builtin-rules --question
 
 # This program built for i386-apple-darwin11.3.0
 
-# Make data base, printed on Sat May 21 22:28:11 2022
+# Make data base, printed on Wed May 25 15:47:21 2022
 
 # Variables
 
@@ -40,11 +40,13 @@ __CFBundleIdentifier = com.microsoft.VSCode
 # environment
 INFOPATH = /opt/homebrew/share/info:
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /var/folders/vz/083pj4qx23b3gjlzqq7qfzj80000gn/T/vscode-ipc-fae3a6d7-4692-49c8-94fb-17ac2d5c92db.sock
+VSCODE_IPC_HOOK_EXTHOST = /var/folders/vz/083pj4qx23b3gjlzqq7qfzj80000gn/T/vscode-ipc-9e9785bc-36d2-4615-b227-1020dda02473.sock
 # environment
 VSCODE_CWD = /
 # environment
 PATH = /opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Frameworks/Python.framework/Versions/3.10/bin:/Library/TeX/texbin:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands
+# environment
+LaunchInstanceID = 69EA94F2-2086-4F99-866B-271E3E6DEEB9
 # environment
 VSCODE_LOG_STACK = false
 # environment
@@ -52,7 +54,7 @@ ELECTRON_RUN_AS_NODE = 1
 # default
 .FEATURES := target-specific order-only second-expansion else-if archives jobserver check-symlink
 # environment
-SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.GaJgJIGv3D/Listeners
+SSH_AUTH_SOCK = /private/tmp/com.apple.launchd.awhWqleyKn/Listeners
 # automatic
 %F = $(notdir $%)
 # makefile (from `Makefile', line 2)
@@ -74,11 +76,11 @@ HOME = /Users/ottomartinwall
 # default
 MAKEFILEPATH := /Applications/Xcode.app/Contents/Developer/Makefiles
 # environment
-VSCODE_CODE_CACHE_PATH = /Users/ottomartinwall/Library/Application Support/Code/CachedData/da15b6fd3ef856477bf6f4fb29ba1b7af717770d
+VSCODE_CODE_CACHE_PATH = /Users/ottomartinwall/Library/Application Support/Code/CachedData/c3511e6c69bb39013c4a4b7b9566ec1ca73fc4d5
 # environment
 LOGNAME = ottomartinwall
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # automatic
@@ -92,6 +94,9 @@ MAKECMDGOALS := all
 # environment
 SHLVL = 1
 # default
+ 
+make: *** No rule to make target `all'.  Stop.
+
 MAKE_VERSION := 3.81
 # environment
 USER = ottomartinwall
@@ -108,7 +113,7 @@ TMPDIR = /var/folders/vz/083pj4qx23b3gjlzqq7qfzj80000gn/T/
 # automatic
 *F = $(notdir $*)
 # environment
-VSCODE_IPC_HOOK = /Users/ottomartinwall/Library/Application Support/Code/1.67.1-main.sock
+VSCODE_IPC_HOOK = /Users/ottomartinwall/Library/Application Support/Code/1.67.2-main.sock
 # makefile
 MAKEFLAGS = Rrqp
 # environment
@@ -116,7 +121,7 @@ MFLAGS = -Rrqp
 # automatic
 *D = $(patsubst %/,%,$(dir $*))
 # environment
-XPC_SERVICE_NAME = application.com.microsoft.VSCode.19500600.19500606
+XPC_SERVICE_NAME = application.com.microsoft.VSCode.19936855.19936861
 # environment
 HOMEBREW_PREFIX = /opt/homebrew
 # automatic
@@ -135,6 +140,8 @@ MAKEFILES :=
 <F = $(notdir $<)
 # environment
 LC_ALL = C
+# environment
+SECURITYSESSIONID = 186bb
 # automatic
 ^F = $(notdir $^)
 # default
@@ -146,9 +153,9 @@ MAKELEVEL := 0
 # environment
 LANG = C
 # environment
-VSCODE_PID = 71414
+VSCODE_PID = 4668
 # variable set hash-table stats:
-# Load=68/1024=7%, Rehash=0, Collisions=1/93=1%
+# Load=70/1024=7%, Rehash=0, Collisions=1/95=1%
 
 # Pattern-specific Variable Values
 
@@ -156,7 +163,7 @@ VSCODE_PID = 71414
 
 # Directories
 
-# . (device 16777234, inode 8717535): 14 files, no impossibilities.
+# . (device 16777230, inode 8717535): 14 files, no impossibilities.
 
 # 14 files, no impossibilities in 1 directories.
 
@@ -243,8 +250,6 @@ deploy:
 # strcache size: total = 4096 / max = 4096 / min = 4096 / avg = 4096
 # strcache free: total = 4087 / max = 4087 / min = 4087 / avg = 4087
 
-# Finished Make data base on Sat May 21 22:28:11 2022
+# Finished Make data base on Wed May 25 15:47:21 2022
 
  
-make: *** No rule to make target `all'.  Stop.
-
