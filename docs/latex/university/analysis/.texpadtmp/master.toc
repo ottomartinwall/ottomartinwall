@@ -6,10 +6,10 @@
 \contentsline {subsection}{\numberline {2.1.1}-jection}{7}{subsection.2.1.1}%
 \contentsline {subsection}{\numberline {2.1.2}Composition Function}{9}{subsection.2.1.2}%
 \contentsline {subsection}{\numberline {2.1.3}Inverse function}{10}{subsection.2.1.3}%
-\contentsline {chapter}{\numberline {3}My Answers to Exercises From a Few Textbooks}{11}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Analysis with an Introduction to Proof - Steven R. Lay}{12}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Sets and Functions}{13}{subsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.1.1}Exercises 3}{13}{subsubsection.3.1.1.1}%
-\contentsline {paragraph}{(21)}{13}{section*.2}%
-\contentsline {paragraph}{(32)}{15}{section*.3}%
-\contentsline {paragraph}{(33)}{16}{section*.4}%
+\contentsline {chapter}{\numberline {3}Exercises and My Solutions}{12}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Analysis with an Introduction to Proof - Steven R. Lay}{13}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Sets and Functions}{14}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.1}Exercises 3}{14}{subsubsection.3.1.1.1}%
+\contentsline {paragraph}{(21)}{14}{section*.2}%
+\contentsline {paragraph}{(32)}{16}{section*.3}%
+\contentsline {paragraph}{(33)}{17}{section*.4}%
