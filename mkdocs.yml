@@ -5,9 +5,7 @@ site_description: This is my work.
 
 nav:
   - Home: index.md
-  - 'University':
-    - '1st Semester':
-      - Analysis: latex/university/analysis/markdown.md
+  - Analysis: latex/university/analysis/markdown.md
 
 theme:
   logo: img/largeSigma.png
