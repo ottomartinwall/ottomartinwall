@@ -6,6 +6,8 @@ site_description: This is my work.
 nav:
   - Home: index.md
   - Analysis: latex/university/analysis/markdown.md
+  - 'My Projects'
+    - Matteförklaringar: latex/projects/gymnasiestuff/markdown.md
 
 theme:
   logo: img/largeSigma.png

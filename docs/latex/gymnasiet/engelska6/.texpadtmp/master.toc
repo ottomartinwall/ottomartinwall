@@ -1,0 +1,86 @@
+\contentsline {section}{\numberline {1}Language Structure Knowledge}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Names and Nouns}{6}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}Capital Letter}{6}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}Titles}{6}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}Collective Nouns}{7}{subsubsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.2}Abstract Nouns}{8}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}The Passive Form (Not on the Test!)}{9}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Inversion}{10}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Adjectives and Adverbs}{11}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}Relative Clauses}{12}{subsection.1.6}%
+\contentsline {subsection}{\numberline {1.7}Verb tenses}{14}{subsection.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}The Present}{14}{subsubsection.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.2}The Past}{15}{subsubsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.8}Subject Verb Agreement}{16}{subsection.1.8}%
+\contentsline {subsection}{\numberline {1.9}Regular and Irregular Verbs}{17}{subsection.1.9}%
+\contentsline {subsubsection}{\numberline {1.9.1}Regular Verbs}{17}{subsubsection.1.9.1}%
+\contentsline {subsubsection}{\numberline {1.9.2}Irregular Verbs}{17}{subsubsection.1.9.2}%
+\contentsline {subsection}{\numberline {1.10}Apostrophe Rules}{18}{subsection.1.10}%
+\contentsline {subsection}{\numberline {1.11}Short Explanations of Prerequisites}{19}{subsection.1.11}%
+\contentsline {subsubsection}{\numberline {1.11.1}Prepositions}{19}{subsubsection.1.11.1}%
+\contentsline {subsubsection}{\numberline {1.11.2}Conjunctions}{19}{subsubsection.1.11.2}%
+\contentsline {paragraph}{Coordinating Conjunctions}{19}{section*.2}%
+\contentsline {subsubsection}{\numberline {1.11.3}Subjects and Objects}{19}{subsubsection.1.11.3}%
+\contentsline {section}{\numberline {2}Literary History}{21}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Old English Age}{22}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Name and Year}{22}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}The Situation in English Society}{22}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}Influence in Litterature}{22}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Common Forms of Litterature}{22}{subsubsection.2.1.4}%
+\contentsline {subsubsection}{\numberline {2.1.5}Famous Authors and Works}{22}{subsubsection.2.1.5}%
+\contentsline {subsubsection}{\numberline {2.1.6}\textit {One Famous Work Example}}{22}{subsubsection.2.1.6}%
+\contentsline {subsection}{\numberline {2.2}Medieval Period}{23}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Name and Year}{23}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}The Situation in English Society}{23}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Influence in Litterature}{23}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.4}Common Forms of Litterature}{23}{subsubsection.2.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.5}Famous Authors and Works}{23}{subsubsection.2.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.6}\textit {One Famous Work Example}}{23}{subsubsection.2.2.6}%
+\contentsline {subsection}{\numberline {2.3}Renaissance}{24}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Name and Year}{24}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}The Situation in English Society}{24}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Influence in Litterature}{24}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Common Forms of Litterature}{24}{subsubsection.2.3.4}%
+\contentsline {subsubsection}{\numberline {2.3.5}Famous Authors and Works}{24}{subsubsection.2.3.5}%
+\contentsline {subsubsection}{\numberline {2.3.6}\textit {One Famous Work Example}}{24}{subsubsection.2.3.6}%
+\contentsline {subsubsection}{\numberline {2.3.7}Comparison Between \textit {Julius Ceasar} and \textit {Romeo and Juliet}}{25}{subsubsection.2.3.7}%
+\contentsline {subsection}{\numberline {2.4}Enlightenment}{26}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Name and Year}{26}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}The Situation in English Society}{26}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Influence in Litterature}{26}{subsubsection.2.4.3}%
+\contentsline {subsubsection}{\numberline {2.4.4}Common Forms of Litterature}{26}{subsubsection.2.4.4}%
+\contentsline {subsubsection}{\numberline {2.4.5}Famous Authors and Works}{26}{subsubsection.2.4.5}%
+\contentsline {subsubsection}{\numberline {2.4.6}\textit {One Famous Work Example}}{26}{subsubsection.2.4.6}%
+\contentsline {subsection}{\numberline {2.5}Romantic Age}{27}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.5.1}Name and Year}{27}{subsubsection.2.5.1}%
+\contentsline {subsubsection}{\numberline {2.5.2}The Situation in English Society}{27}{subsubsection.2.5.2}%
+\contentsline {subsubsection}{\numberline {2.5.3}Influence in Litterature}{27}{subsubsection.2.5.3}%
+\contentsline {subsubsection}{\numberline {2.5.4}Common Forms of Litterature}{27}{subsubsection.2.5.4}%
+\contentsline {subsubsection}{\numberline {2.5.5}Famous Authors and Works}{27}{subsubsection.2.5.5}%
+\contentsline {subsubsection}{\numberline {2.5.6}\textit {One Famous Work Example}}{27}{subsubsection.2.5.6}%
+\contentsline {subsection}{\numberline {2.6}Victorian Age}{28}{subsection.2.6}%
+\contentsline {subsubsection}{\numberline {2.6.1}Name and Year}{28}{subsubsection.2.6.1}%
+\contentsline {subsubsection}{\numberline {2.6.2}The Situation in English Society}{28}{subsubsection.2.6.2}%
+\contentsline {subsubsection}{\numberline {2.6.3}Influence in Litterature}{28}{subsubsection.2.6.3}%
+\contentsline {subsubsection}{\numberline {2.6.4}Common Forms of Litterature}{28}{subsubsection.2.6.4}%
+\contentsline {subsubsection}{\numberline {2.6.5}Famous Authors and Works}{28}{subsubsection.2.6.5}%
+\contentsline {subsubsection}{\numberline {2.6.6}\textit {One Famous Work Example}}{29}{subsubsection.2.6.6}%
+\contentsline {subsection}{\numberline {2.7}Modern Times}{30}{subsection.2.7}%
+\contentsline {subsubsection}{\numberline {2.7.1}Name and Year}{30}{subsubsection.2.7.1}%
+\contentsline {subsubsection}{\numberline {2.7.2}The Situation in English Society}{30}{subsubsection.2.7.2}%
+\contentsline {subsubsection}{\numberline {2.7.3}Influence in Litterature}{30}{subsubsection.2.7.3}%
+\contentsline {subsubsection}{\numberline {2.7.4}Common Forms of Litterature}{30}{subsubsection.2.7.4}%
+\contentsline {subsubsection}{\numberline {2.7.5}Famous Authors and Works}{30}{subsubsection.2.7.5}%
+\contentsline {subsubsection}{\numberline {2.7.6}\textit {One Famous Work Example}}{30}{subsubsection.2.7.6}%
+\contentsline {section}{\numberline {3}Novel Analysis}{31}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Literary Elements}{32}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Characterization}{32}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Setting}{33}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Plot}{33}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Themes}{34}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Style}{34}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}Tone}{34}{subsubsection.3.1.6}%
+\contentsline {subsubsection}{\numberline {3.1.7}Point of View}{34}{subsubsection.3.1.7}%
+\contentsline {section}{\numberline {4}Cover Letter}{35}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Chosen Job Advertisement}{36}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}The Cover Letter}{36}{subsection.4.2}%
