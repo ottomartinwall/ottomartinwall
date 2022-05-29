@@ -2,7 +2,7 @@
 
 This website is for hosting and sharing my notes and projects. Here under are some examples:
 
-## Some projects with dynamical systems, explained in <a href='latex/projects/gymnasiestuff/markdown.md'><u>here</u></a> in swedish:
+## Some projects with dynamical systems, explained in <a href='latex/projects/gymnasiestuff/markdown/'><u>here</u></a> in swedish:
 
 ---
 
