@@ -8,7 +8,8 @@ nav:
   - 'Subjects':
     - Analysis: latex/university/analysis/markdown.md
   - 'My Projects':
-    - Matteförklaringar: latex/projects/gymnasiestuff/markdown.md
+    - 'Gymnasietiden':
+      - Matteförklaringar: latex/projects/gymnasiestuff/markdown.md
 
 theme:
   logo: img/largeSigma.png
