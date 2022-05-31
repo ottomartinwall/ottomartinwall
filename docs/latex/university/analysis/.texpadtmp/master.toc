@@ -1,16 +1,17 @@
-\contentsline {chapter}{\numberline {1}Set Theory}{2}{chapter.1}%
-\contentsline {section}{\numberline {1.1}Ordered Pairs}{2}{section.1.1}%
-\contentsline {section}{\numberline {1.2}Relation}{4}{section.1.2}%
-\contentsline {section}{\numberline {1.3}Cardinality}{6}{section.1.3}%
-\contentsline {chapter}{\numberline {2}Functions}{11}{chapter.2}%
-\contentsline {section}{\numberline {2.1}Properties of Functions}{12}{section.2.1}%
-\contentsline {subsection}{\numberline {2.1.1}-jection}{12}{subsection.2.1.1}%
-\contentsline {subsection}{\numberline {2.1.2}Composition Function}{14}{subsection.2.1.2}%
-\contentsline {subsection}{\numberline {2.1.3}Inverse function}{15}{subsection.2.1.3}%
-\contentsline {chapter}{\numberline {3}Exercises and My Solutions}{17}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Analysis with an Introduction to Proof - Steven R. Lay}{18}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Sets and Functions}{19}{subsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.1.1}Exercises 3}{19}{subsubsection.3.1.1.1}%
-\contentsline {paragraph}{(21)}{19}{section*.2}%
-\contentsline {paragraph}{(32)}{21}{section*.3}%
-\contentsline {paragraph}{(33)}{22}{section*.4}%
+\contentsline {chapter}{\numberline {1}Proof Techniques}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Mathematical Induction}{2}{section.1.1}%
+\contentsline {chapter}{\numberline {2}Set Theory}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Ordered Pairs}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Relation}{5}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Functions}{7}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Properties of Functions}{8}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Composition Function}{10}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Inverse function}{11}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Cardinality}{13}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Exercises and My Solutions}{19}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Analysis with an Introduction to Proof - Steven R. Lay}{20}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Sets and Functions}{21}{subsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1.1}Exercises 3}{21}{subsubsection.3.1.1.1}%
+\contentsline {paragraph}{(21)}{21}{section*.2}%
+\contentsline {paragraph}{(32)}{23}{section*.3}%
+\contentsline {paragraph}{(33)}{24}{section*.4}%
