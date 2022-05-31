@@ -5,9 +5,9 @@ site_description: This is my work.
 
 nav:
   - Home: index.md
-  - 'University':
-    - 'First Semester':
-      - Single Variable Calculus: 
+#  - 'University':
+#    - 'First Semester':
+#      - Single Variable Calculus: 
   - 'Self Study':
     - Analysis: latex/university/analysis/markdown.md
   - 'My Projects':
