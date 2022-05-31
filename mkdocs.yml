@@ -5,7 +5,9 @@ site_description: This is my work.
 
 nav:
   - Home: index.md
-  - 'Subjects':
+  - 'University':
+    - 'First Semester':
+  - 'Self Study':
     - Analysis: latex/university/analysis/markdown.md
   - 'My Projects':
     - 'Gymnasietiden':
